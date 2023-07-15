@@ -1,0 +1,1182 @@
+match,teamInnings,battingPos,batsmanName,runs,balls,fours,sixes,SR,out/not_out,id,batsmanrName,Sr
+Super Kings Vs Titans,Super Kings,1,Devon Conway,1,6,0,0,16.66,1,1,Devon Conway,16.666666666666664
+Super Kings Vs Titans,Super Kings,2,Ruturaj Gaikwad,92,50,4,9,184.00,1,1,Ruturaj Gaikwad,184.0
+Super Kings Vs Titans,Super Kings,3,Moeen Ali,23,17,4,1,135.29,1,1,Moeen Ali,135.29411764705884
+Super Kings Vs Titans,Super Kings,4,Ben Stokes,7,6,1,0,116.66,1,1,Ben Stokes,116.66666666666667
+Super Kings Vs Titans,Super Kings,5,Ambati Rayudu,12,12,0,1,100.00,1,1,Ambati Rayudu,100.0
+Super Kings Vs Titans,Super Kings,6,Shivam Dube,19,18,0,1,105.55,1,1,Shivam Dube,105.55555555555556
+Super Kings Vs Titans,Super Kings,7,Ravindra Jadeja,1,2,0,0,50.00,1,1,Ravindra Jadeja,50.0
+Super Kings Vs Titans,Super Kings,8,MS Dhoni(c) ,14,7,1,1,200.00,0,1,MS Dhoni ,200.0
+Super Kings Vs Titans,Super Kings,9,Mitchell Santner,1,3,0,0,33.33,0,1,Mitchell Santner,33.33333333333333
+Super Kings Vs Titans,Titans,1,Wriddhiman Saha ,25,16,2,2,156.25,1,1,Wriddhiman Saha ,156.25
+Super Kings Vs Titans,Titans,2,Shubman Gill,63,36,6,3,175.00,1,1,Shubman Gill,175.0
+Super Kings Vs Titans,Titans,3,Sai Sudharsan,22,17,3,0,129.41,1,1,Sai Sudharsan,129.41176470588235
+Super Kings Vs Titans,Titans,4,Hardik Pandya(c),8,11,0,0,72.72,1,1,Hardik Pandya,72.72727272727273
+Super Kings Vs Titans,Titans,5,Vijay Shankar,27,21,2,1,128.57,1,1,Vijay Shankar,128.57142857142858
+Super Kings Vs Titans,Titans,6,Rahul Tewatia,15,14,1,1,107.14,0,1,Rahul Tewatia,107.14285714285714
+Super Kings Vs Titans,Titans,7,Rashid Khan,10,3,1,1,333.33,0,1,Rashid Khan,333.33333333333337
+Punjab Kings Vs KKR,Punjab Kings,1,Prabhsimran Singh,23,12,2,2,191.66,1,2,Prabhsimran Singh,191.66666666666669
+Punjab Kings Vs KKR,Punjab Kings,2,Shikhar Dhawan(c),40,29,6,0,137.93,1,2,Shikhar Dhawan,137.93103448275863
+Punjab Kings Vs KKR,Punjab Kings,3,Bhanuka Rajapaksa,50,32,5,2,156.25,1,2,Bhanuka Rajapaksa,156.25
+Punjab Kings Vs KKR,Punjab Kings,4,Jitesh Sharma ,21,11,1,2,190.90,1,2,Jitesh Sharma ,190.9090909090909
+Punjab Kings Vs KKR,Punjab Kings,5,Sikandar Raza,16,13,1,1,123.07,1,2,Sikandar Raza,123.07692307692308
+Punjab Kings Vs KKR,Punjab Kings,6,Sam Curran,26,17,0,2,152.94,0,2,Sam Curran,152.94117647058823
+Punjab Kings Vs KKR,Punjab Kings,7,M Shahrukh Khan,11,7,2,0,157.14,0,2,M Shahrukh Khan,157.14285714285714
+Punjab Kings Vs KKR,KKR,1,Mandeep Singh,2,4,0,0,50.00,1,2,Mandeep Singh,50.0
+Punjab Kings Vs KKR,KKR,2,Rahmanullah Gurbaz ,22,16,3,1,137.50,1,2,Rahmanullah Gurbaz ,137.5
+Punjab Kings Vs KKR,KKR,3,Anukul Roy,4,5,1,0,80.00,1,2,Anukul Roy,80.0
+Punjab Kings Vs KKR,KKR,4,Venkatesh Iyer,34,28,3,1,121.42,1,2,Venkatesh Iyer,121.42857142857142
+Punjab Kings Vs KKR,KKR,5,Nitish Rana(c),24,17,3,1,141.17,1,2,Nitish Rana,141.1764705882353
+Punjab Kings Vs KKR,KKR,6,Rinku Singh,4,4,0,0,100.00,1,2,Rinku Singh,100.0
+Punjab Kings Vs KKR,KKR,7,Andre Russell,35,19,3,2,184.21,1,2,Andre Russell,184.21052631578948
+Punjab Kings Vs KKR,KKR,8,Shardul Thakur,8,3,0,1,266.66,0,2,Shardul Thakur,266.66666666666663
+Punjab Kings Vs KKR,KKR,9,Sunil Narine,7,2,0,1,350.00,0,2,Sunil Narine,350.0
+Super Giants Vs Capitals,Super Giants,1,KL Rahul(c),8,12,0,1,66.66,1,3,KL Rahul,66.66666666666666
+Super Giants Vs Capitals,Super Giants,2,Kyle Mayers,73,38,2,7,192.10,1,3,Kyle Mayers,192.10526315789474
+Super Giants Vs Capitals,Super Giants,3,Deepak Hooda,17,18,0,0,94.44,1,3,Deepak Hooda,94.44444444444444
+Super Giants Vs Capitals,Super Giants,4,Krunal Pandya,15,13,0,1,115.38,0,3,Krunal Pandya,115.38461538461537
+Super Giants Vs Capitals,Super Giants,5,Marcus Stoinis,12,10,0,1,120.00,1,3,Marcus Stoinis,120.0
+Super Giants Vs Capitals,Super Giants,6,Nicholas Pooran ,36,21,2,3,171.42,1,3,Nicholas Pooran ,171.42857142857142
+Super Giants Vs Capitals,Super Giants,7,Ayush Badoni,18,7,1,2,257.14,1,3,Ayush Badoni,257.14285714285717
+Super Giants Vs Capitals,Super Giants,8,Krishnappa Gowtham,6,1,0,1,600.00,0,3,Krishnappa Gowtham,600.0
+Super Giants Vs Capitals,Capitals,1,Prithvi Shaw,12,9,2,0,133.33,1,3,Prithvi Shaw,133.33333333333331
+Super Giants Vs Capitals,Capitals,2,David Warner(c),56,48,7,0,116.66,1,3,David Warner,116.66666666666667
+Super Giants Vs Capitals,Capitals,3,Mitchell Marsh,0,1,0,0,0.00,1,3,Mitchell Marsh,0.0
+Super Giants Vs Capitals,Capitals,4,Sarfaraz Khan ,4,9,1,0,44.44,1,3,Sarfaraz Khan ,44.44444444444444
+Super Giants Vs Capitals,Capitals,5,Rilee Rossouw,30,20,3,1,150.00,1,3,Rilee Rossouw,150.0
+Super Giants Vs Capitals,Capitals,6,Rovman Powell,1,3,0,0,33.33,1,3,Rovman Powell,33.33333333333333
+Super Giants Vs Capitals,Capitals,7,Aman Hakim Khan,4,5,0,0,80.00,1,3,Aman Hakim Khan,80.0
+Super Giants Vs Capitals,Capitals,8,Axar Patel,16,11,1,1,145.45,1,3,Axar Patel,145.45454545454547
+Super Giants Vs Capitals,Capitals,9,Kuldeep Yadav,6,10,0,0,60.00,0,3,Kuldeep Yadav,60.0
+Super Giants Vs Capitals,Capitals,10,Chetan Sakariya,4,4,1,0,100.00,1,3,Chetan Sakariya,100.0
+Super Giants Vs Capitals,Capitals,11,Mukesh Kumar,0,1,0,0,0.00,0,3,Mukesh Kumar,0.0
+Royals Vs Sunrisers,Royals,1,Yashasvi Jaiswal,54,37,9,0,145.94,1,4,Yashasvi Jaiswal,145.94594594594594
+Royals Vs Sunrisers,Royals,2,Jos Buttler,54,22,7,3,245.45,1,4,Jos Buttler,245.45454545454547
+Royals Vs Sunrisers,Royals,3,Sanju Samson(c) ,55,32,3,4,171.87,1,4,Sanju Samson ,171.875
+Royals Vs Sunrisers,Royals,4,Devdutt Padikkal,2,5,0,0,40.00,1,4,Devdutt Padikkal,40.0
+Royals Vs Sunrisers,Royals,5,Riyan Parag,7,6,1,0,116.66,1,4,Riyan Parag,116.66666666666667
+Royals Vs Sunrisers,Royals,6,Shimron Hetmyer,22,16,1,1,137.50,0,4,Shimron Hetmyer,137.5
+Royals Vs Sunrisers,Royals,7,Ravichandran Ashwin,1,2,0,0,50.00,0,4,Ravichandran Ashwin,50.0
+Royals Vs Sunrisers,Sunrisers,1,Abhishek Sharma,0,3,0,0,0.00,1,4,Abhishek Sharma,0.0
+Royals Vs Sunrisers,Sunrisers,2,Mayank Agarwal,27,23,3,0,117.39,1,4,Mayank Agarwal,117.3913043478261
+Royals Vs Sunrisers,Sunrisers,3,Rahul Tripathi,0,2,0,0,0.00,1,4,Rahul Tripathi,0.0
+Royals Vs Sunrisers,Sunrisers,4,Harry Brook,13,21,1,0,61.90,1,4,Harry Brook,61.904761904761905
+Royals Vs Sunrisers,Sunrisers,5,Washington Sundar,1,5,0,0,20.00,1,4,Washington Sundar,20.0
+Royals Vs Sunrisers,Sunrisers,6,Glenn Phillips ,8,6,0,1,133.33,1,4,Glenn Phillips ,133.33333333333331
+Royals Vs Sunrisers,Sunrisers,7,Abdul Samad,32,32,2,1,100.00,0,4,Abdul Samad,100.0
+Royals Vs Sunrisers,Sunrisers,8,Adil Rashid,18,13,1,1,138.46,1,4,Adil Rashid,138.46153846153845
+Royals Vs Sunrisers,Sunrisers,9,Bhuvneshwar Kumar(c),6,10,0,0,60.00,1,4,Bhuvneshwar Kumar,60.0
+Royals Vs Sunrisers,Sunrisers,10,Umran Malik,19,8,1,2,237.50,0,4,Umran Malik,237.5
+Mumbai Vs RCB,Mumbai,1,Rohit Sharma(c),1,10,0,0,10.00,1,5,Rohit Sharma,10.0
+Mumbai Vs RCB,Mumbai,2,Ishan Kishan ,10,13,2,0,76.92,1,5,Ishan Kishan ,76.92307692307693
+Mumbai Vs RCB,Mumbai,3,Cameron Green,5,4,1,0,125.00,1,5,Cameron Green,125.0
+Mumbai Vs RCB,Mumbai,4,Suryakumar Yadav,15,16,1,0,93.75,1,5,Suryakumar Yadav,93.75
+Mumbai Vs RCB,Mumbai,5,Tilak Varma,84,46,9,4,182.60,0,5,Tilak Varma,182.6086956521739
+Mumbai Vs RCB,Mumbai,6,Nehal Wadhera,21,13,1,2,161.53,1,5,Nehal Wadhera,161.53846153846155
+Mumbai Vs RCB,Mumbai,7,Tim David,4,7,0,0,57.14,1,5,Tim David,57.14285714285714
+Mumbai Vs RCB,Mumbai,8,Hrithik Shokeen,5,3,1,0,166.66,1,5,Hrithik Shokeen,166.66666666666669
+Mumbai Vs RCB,Mumbai,9,Arshad Khan,15,9,0,1,166.66,0,5,Arshad Khan,166.66666666666669
+Mumbai Vs RCB,RCB,1,Virat Kohli,82,49,6,5,167.34,0,5,Virat Kohli,167.3469387755102
+Mumbai Vs RCB,RCB,2,Faf du Plessis(c),73,43,5,6,169.76,1,5,Faf du Plessis,169.7674418604651
+Mumbai Vs RCB,RCB,3,Dinesh Karthik ,0,3,0,0,0.00,1,5,Dinesh Karthik ,0.0
+Mumbai Vs RCB,RCB,4,Glenn Maxwell,12,3,0,2,400.00,0,5,Glenn Maxwell,400.0
+Super Kings Vs Super Giants,Super Kings,1,Ruturaj Gaikwad,57,31,3,4,183.87,1,6,Ruturaj Gaikwad,183.8709677419355
+Super Kings Vs Super Giants,Super Kings,2,Devon Conway,47,29,5,2,162.06,1,6,Devon Conway,162.06896551724137
+Super Kings Vs Super Giants,Super Kings,3,Shivam Dube,27,16,1,3,168.75,1,6,Shivam Dube,168.75
+Super Kings Vs Super Giants,Super Kings,4,Moeen Ali,19,13,3,0,146.15,1,6,Moeen Ali,146.15384615384613
+Super Kings Vs Super Giants,Super Kings,5,Ben Stokes,8,8,1,0,100.00,1,6,Ben Stokes,100.0
+Super Kings Vs Super Giants,Super Kings,6,Ambati Rayudu,27,14,2,2,192.85,0,6,Ambati Rayudu,192.85714285714286
+Super Kings Vs Super Giants,Super Kings,7,Ravindra Jadeja,3,6,0,0,50.00,1,6,Ravindra Jadeja,50.0
+Super Kings Vs Super Giants,Super Kings,8,MS Dhoni(c) ,12,3,0,2,400.00,1,6,MS Dhoni ,400.0
+Super Kings Vs Super Giants,Super Kings,9,Mitchell Santner,1,1,0,0,100.00,0,6,Mitchell Santner,100.0
+Super Kings Vs Super Giants,Super Giants,1,KL Rahul(c),20,18,2,0,111.11,1,6,KL Rahul,111.11111111111111
+Super Kings Vs Super Giants,Super Giants,2,Kyle Mayers,53,22,8,2,240.90,1,6,Kyle Mayers,240.9090909090909
+Super Kings Vs Super Giants,Super Giants,3,Deepak Hooda,2,6,0,0,33.33,1,6,Deepak Hooda,33.33333333333333
+Super Kings Vs Super Giants,Super Giants,4,Krunal Pandya,9,9,0,1,100.00,1,6,Krunal Pandya,100.0
+Super Kings Vs Super Giants,Super Giants,5,Marcus Stoinis,21,18,0,1,116.66,1,6,Marcus Stoinis,116.66666666666667
+Super Kings Vs Super Giants,Super Giants,6,Nicholas Pooran ,32,18,2,3,177.77,1,6,Nicholas Pooran ,177.77777777777777
+Super Kings Vs Super Giants,Super Giants,7,Ayush Badoni,23,18,0,0,127.77,1,6,Ayush Badoni,127.77777777777777
+Super Kings Vs Super Giants,Super Giants,8,Krishnappa Gowtham,17,11,0,1,154.54,0,6,Krishnappa Gowtham,154.54545454545453
+Super Kings Vs Super Giants,Super Giants,9,Mark Wood,10,3,1,1,333.33,0,6,Mark Wood,333.33333333333337
+Capitals Vs Titans,Capitals,1,David Warner(c),37,32,7,0,115.62,1,7,David Warner,115.625
+Capitals Vs Titans,Capitals,2,Prithvi Shaw,7,5,1,0,140.00,1,7,Prithvi Shaw,140.0
+Capitals Vs Titans,Capitals,3,Mitchell Marsh,4,4,1,0,100.00,1,7,Mitchell Marsh,100.0
+Capitals Vs Titans,Capitals,4,Sarfaraz Khan,30,34,2,0,88.23,1,7,Sarfaraz Khan,88.23529411764706
+Capitals Vs Titans,Capitals,5,Rilee Rossouw,0,1,0,0,0.00,1,7,Rilee Rossouw,0.0
+Capitals Vs Titans,Capitals,6,Abishek Porel ,20,11,0,2,181.81,1,7,Abishek Porel ,181.8181818181818
+Capitals Vs Titans,Capitals,7,Axar Patel,36,22,2,3,163.63,1,7,Axar Patel,163.63636363636365
+Capitals Vs Titans,Capitals,8,Aman Hakim Khan,8,8,0,1,100.00,1,7,Aman Hakim Khan,100.0
+Capitals Vs Titans,Capitals,9,Kuldeep Yadav,1,1,0,0,100.00,0,7,Kuldeep Yadav,100.0
+Capitals Vs Titans,Capitals,10,Anrich Nortje,4,2,1,0,200.00,0,7,Anrich Nortje,200.0
+Capitals Vs Titans,Titans,1,Wriddhiman Saha ,14,7,2,1,200.00,1,7,Wriddhiman Saha ,200.0
+Capitals Vs Titans,Titans,2,Shubman Gill,14,13,3,0,107.69,1,7,Shubman Gill,107.6923076923077
+Capitals Vs Titans,Titans,3,Sai Sudharsan,62,48,4,2,129.16,0,7,Sai Sudharsan,129.16666666666669
+Capitals Vs Titans,Titans,4,Hardik Pandya(c),5,4,1,0,125.00,1,7,Hardik Pandya,125.0
+Capitals Vs Titans,Titans,5,Vijay Shankar,29,23,3,0,126.08,1,7,Vijay Shankar,126.08695652173914
+Capitals Vs Titans,Titans,6,David Miller,31,16,2,2,193.75,0,7,David Miller,193.75
+Punjab Kings Vs Royals,Punjab Kings,1,Prabhsimran Singh,60,34,7,3,176.47,1,8,Prabhsimran Singh,176.47058823529412
+Punjab Kings Vs Royals,Punjab Kings,2,Shikhar Dhawan(c),86,56,9,3,153.57,0,8,Shikhar Dhawan,153.57142857142858
+Punjab Kings Vs Royals,Punjab Kings,3,Bhanuka Rajapaksa,1,1,0,0,100.00,0,8,Bhanuka Rajapaksa,100.0
+Punjab Kings Vs Royals,Punjab Kings,4,Jitesh Sharma ,27,16,2,1,168.75,1,8,Jitesh Sharma ,168.75
+Punjab Kings Vs Royals,Punjab Kings,5,Sikandar Raza,1,2,0,0,50.00,1,8,Sikandar Raza,50.0
+Punjab Kings Vs Royals,Punjab Kings,6,M Shahrukh Khan,11,10,1,0,110.00,1,8,M Shahrukh Khan,110.00000000000001
+Punjab Kings Vs Royals,Punjab Kings,7,Sam Curran,1,2,0,0,50.00,0,8,Sam Curran,50.0
+Punjab Kings Vs Royals,Royals,1,Yashasvi Jaiswal,11,8,1,1,137.50,1,8,Yashasvi Jaiswal,137.5
+Punjab Kings Vs Royals,Royals,2,Ravichandran Ashwin,0,4,0,0,0.00,1,8,Ravichandran Ashwin,0.0
+Punjab Kings Vs Royals,Royals,3,Jos Buttler,19,11,1,1,172.72,1,8,Jos Buttler,172.72727272727272
+Punjab Kings Vs Royals,Royals,4,Sanju Samson(c) ,42,25,5,1,168.00,1,8,Sanju Samson ,168.0
+Punjab Kings Vs Royals,Royals,5,Devdutt Padikkal,21,26,1,0,80.76,1,8,Devdutt Padikkal,80.76923076923077
+Punjab Kings Vs Royals,Royals,6,Riyan Parag,20,12,1,2,166.66,1,8,Riyan Parag,166.66666666666669
+Punjab Kings Vs Royals,Royals,7,Shimron Hetmyer,36,18,1,3,200.00,1,8,Shimron Hetmyer,200.0
+Punjab Kings Vs Royals,Royals,8,Dhruv Jurel,32,15,3,2,213.33,0,8,Dhruv Jurel,213.33333333333334
+Punjab Kings Vs Royals,Royals,9,Jason Holder,1,1,0,0,100.00,0,8,Jason Holder,100.0
+KKR Vs RCB,KKR,1,Rahmanullah Gurbaz ,57,44,6,3,129.54,1,9,Rahmanullah Gurbaz ,129.54545454545453
+KKR Vs RCB,KKR,2,Venkatesh Iyer,3,7,0,0,42.85,1,9,Venkatesh Iyer,42.857142857142854
+KKR Vs RCB,KKR,3,Mandeep Singh,0,1,0,0,0.00,1,9,Mandeep Singh,0.0
+KKR Vs RCB,KKR,4,Nitish Rana(c),1,5,0,0,20.00,1,9,Nitish Rana,20.0
+KKR Vs RCB,KKR,5,Rinku Singh,46,33,2,3,139.39,1,9,Rinku Singh,139.3939393939394
+KKR Vs RCB,KKR,6,Andre Russell,0,1,0,0,0.00,1,9,Andre Russell,0.0
+KKR Vs RCB,KKR,7,Shardul Thakur,68,29,9,3,234.48,1,9,Shardul Thakur,234.48275862068962
+KKR Vs RCB,KKR,8,Sunil Narine,0,1,0,0,0.00,0,9,Sunil Narine,0.0
+KKR Vs RCB,KKR,9,Umesh Yadav,6,2,1,0,300.00,0,9,Umesh Yadav,300.0
+KKR Vs RCB,RCB,1,Virat Kohli,21,18,3,0,116.66,1,9,Virat Kohli,116.66666666666667
+KKR Vs RCB,RCB,2,Faf du Plessis(c),23,12,2,2,191.66,1,9,Faf du Plessis,191.66666666666669
+KKR Vs RCB,RCB,3,Michael Bracewell,19,18,1,1,105.55,1,9,Michael Bracewell,105.55555555555556
+KKR Vs RCB,RCB,4,Glenn Maxwell,5,7,1,0,71.42,1,9,Glenn Maxwell,71.42857142857143
+KKR Vs RCB,RCB,5,Harshal Patel,0,2,0,0,0.00,1,9,Harshal Patel,0.0
+KKR Vs RCB,RCB,6,Shahbaz Ahmed,1,5,0,0,20.00,1,9,Shahbaz Ahmed,20.0
+KKR Vs RCB,RCB,7,Dinesh Karthik ,9,8,1,0,112.50,1,9,Dinesh Karthik ,112.5
+KKR Vs RCB,RCB,8,Anuj Rawat,1,5,0,0,20.00,1,9,Anuj Rawat,20.0
+KKR Vs RCB,RCB,9,David Willey,20,20,2,0,100.00,0,9,David Willey,100.0
+KKR Vs RCB,RCB,10,Karn Sharma,1,3,0,0,33.33,1,9,Karn Sharma,33.33333333333333
+KKR Vs RCB,RCB,11,Akash Deep,17,8,2,1,212.50,1,9,Akash Deep,212.5
+Sunrisers Vs Super Giants,Sunrisers,1,Anmolpreet Singh ,31,26,3,1,119.23,1,10,Anmolpreet Singh ,119.23076923076923
+Sunrisers Vs Super Giants,Sunrisers,2,Mayank Agarwal,8,7,1,0,114.28,1,10,Mayank Agarwal,114.28571428571428
+Sunrisers Vs Super Giants,Sunrisers,3,Rahul Tripathi,34,41,4,0,82.92,1,10,Rahul Tripathi,82.92682926829268
+Sunrisers Vs Super Giants,Sunrisers,4,Aiden Markram(c),0,1,0,0,0.00,1,10,Aiden Markram,0.0
+Sunrisers Vs Super Giants,Sunrisers,5,Harry Brook,3,4,0,0,75.00,1,10,Harry Brook,75.0
+Sunrisers Vs Super Giants,Sunrisers,6,Washington Sundar,16,28,0,0,57.14,1,10,Washington Sundar,57.14285714285714
+Sunrisers Vs Super Giants,Sunrisers,7,Abdul Samad,21,10,1,2,210.00,0,10,Abdul Samad,210.0
+Sunrisers Vs Super Giants,Sunrisers,8,Adil Rashid,4,3,1,0,133.33,1,10,Adil Rashid,133.33333333333331
+Sunrisers Vs Super Giants,Sunrisers,9,Umran Malik,0,0,0,0,-,1,10,Umran Malik,0.0
+Sunrisers Vs Super Giants,Sunrisers,10,Bhuvneshwar Kumar,0,0,0,0,-,0,10,Bhuvneshwar Kumar,0.0
+Sunrisers Vs Super Giants,Super Giants,1,Kyle Mayers,13,14,2,0,92.85,1,10,Kyle Mayers,92.85714285714286
+Sunrisers Vs Super Giants,Super Giants,2,KL Rahul(c),35,31,4,0,112.90,1,10,KL Rahul,112.90322580645163
+Sunrisers Vs Super Giants,Super Giants,3,Deepak Hooda,7,8,0,1,87.50,1,10,Deepak Hooda,87.5
+Sunrisers Vs Super Giants,Super Giants,4,Krunal Pandya,34,23,4,1,147.82,1,10,Krunal Pandya,147.82608695652172
+Sunrisers Vs Super Giants,Super Giants,5,Marcus Stoinis,10,13,2,0,76.92,0,10,Marcus Stoinis,76.92307692307693
+Sunrisers Vs Super Giants,Super Giants,6,Romario Shepherd,0,1,0,0,0.00,1,10,Romario Shepherd,0.0
+Sunrisers Vs Super Giants,Super Giants,7,Nicholas Pooran ,11,6,1,1,183.33,0,10,Nicholas Pooran ,183.33333333333331
+Royals Vs Capitals,Royals,1,Yashasvi Jaiswal,60,31,11,1,193.54,1,11,Yashasvi Jaiswal,193.5483870967742
+Royals Vs Capitals,Royals,2,Jos Buttler,79,51,11,1,154.90,1,11,Jos Buttler,154.90196078431373
+Royals Vs Capitals,Royals,3,Sanju Samson(c) ,0,4,0,0,0.00,1,11,Sanju Samson ,0.0
+Royals Vs Capitals,Royals,4,Riyan Parag,7,11,0,0,63.63,1,11,Riyan Parag,63.63636363636363
+Royals Vs Capitals,Royals,5,Shimron Hetmyer,39,21,1,4,185.71,0,11,Shimron Hetmyer,185.71428571428572
+Royals Vs Capitals,Royals,6,Dhruv Jurel,8,3,0,1,266.66,0,11,Dhruv Jurel,266.66666666666663
+Royals Vs Capitals,Capitals,1,Prithvi Shaw,0,3,0,0,0.00,1,11,Prithvi Shaw,0.0
+Royals Vs Capitals,Capitals,2,David Warner(c),65,55,7,0,118.18,1,11,David Warner,118.18181818181819
+Royals Vs Capitals,Capitals,3,Manish Pandey,0,1,0,0,0.00,1,11,Manish Pandey,0.0
+Royals Vs Capitals,Capitals,4,Rilee Rossouw,14,12,2,0,116.66,1,11,Rilee Rossouw,116.66666666666667
+Royals Vs Capitals,Capitals,5,Lalit Yadav,38,24,5,0,158.33,1,11,Lalit Yadav,158.33333333333331
+Royals Vs Capitals,Capitals,6,Axar Patel,2,6,0,0,33.33,1,11,Axar Patel,33.33333333333333
+Royals Vs Capitals,Capitals,7,Rovman Powell,2,2,0,0,100.00,1,11,Rovman Powell,100.0
+Royals Vs Capitals,Capitals,8,Abishek Porel ,7,9,1,0,77.77,1,11,Abishek Porel ,77.77777777777779
+Royals Vs Capitals,Capitals,9,Kuldeep Yadav,3,7,0,0,42.85,0,11,Kuldeep Yadav,42.857142857142854
+Royals Vs Capitals,Capitals,10,Anrich Nortje,0,1,0,0,0.00,1,11,Anrich Nortje,0.0
+Royals Vs Capitals,Capitals,11,Mukesh Kumar,1,1,0,0,100.00,0,11,Mukesh Kumar,100.0
+Mumbai Vs Super Kings,Mumbai,1,Rohit Sharma(c),21,13,3,1,161.53,1,12,Rohit Sharma,161.53846153846155
+Mumbai Vs Super Kings,Mumbai,2,Ishan Kishan ,32,21,5,0,152.38,1,12,Ishan Kishan ,152.38095238095238
+Mumbai Vs Super Kings,Mumbai,3,Cameron Green,12,11,1,0,109.09,1,12,Cameron Green,109.09090909090908
+Mumbai Vs Super Kings,Mumbai,4,Suryakumar Yadav,1,2,0,0,50.00,1,12,Suryakumar Yadav,50.0
+Mumbai Vs Super Kings,Mumbai,5,Tilak Varma,22,18,2,1,122.22,1,12,Tilak Varma,122.22222222222223
+Mumbai Vs Super Kings,Mumbai,6,Arshad Khan,2,4,0,0,50.00,1,12,Arshad Khan,50.0
+Mumbai Vs Super Kings,Mumbai,7,Tim David,31,22,1,2,140.90,1,12,Tim David,140.9090909090909
+Mumbai Vs Super Kings,Mumbai,8,Tristan Stubbs,5,10,0,0,50.00,1,12,Tristan Stubbs,50.0
+Mumbai Vs Super Kings,Mumbai,9,Hrithik Shokeen,18,13,3,0,138.46,0,12,Hrithik Shokeen,138.46153846153845
+Mumbai Vs Super Kings,Mumbai,10,Piyush Chawla,5,6,0,0,83.33,0,12,Piyush Chawla,83.33333333333334
+Mumbai Vs Super Kings,Super Kings,1,Devon Conway,0,4,0,0,0.00,1,12,Devon Conway,0.0
+Mumbai Vs Super Kings,Super Kings,2,Ruturaj Gaikwad,40,36,2,1,111.11,0,12,Ruturaj Gaikwad,111.11111111111111
+Mumbai Vs Super Kings,Super Kings,3,Ajinkya Rahane,61,27,7,3,225.92,1,12,Ajinkya Rahane,225.9259259259259
+Mumbai Vs Super Kings,Super Kings,4,Shivam Dube,28,26,2,1,107.69,1,12,Shivam Dube,107.6923076923077
+Mumbai Vs Super Kings,Super Kings,5,Ambati Rayudu,20,16,3,0,125.00,0,12,Ambati Rayudu,125.0
+Titans Vs KKR,Titans,1,Wriddhiman Saha ,17,17,3,0,100.00,1,13,Wriddhiman Saha ,100.0
+Titans Vs KKR,Titans,2,Shubman Gill,39,31,5,0,125.80,1,13,Shubman Gill,125.80645161290323
+Titans Vs KKR,Titans,3,Sai Sudharsan,53,38,3,2,139.47,1,13,Sai Sudharsan,139.4736842105263
+Titans Vs KKR,Titans,4,Abhinav Manohar,14,8,3,0,175.00,1,13,Abhinav Manohar,175.0
+Titans Vs KKR,Titans,5,Vijay Shankar,63,24,4,5,262.50,0,13,Vijay Shankar,262.5
+Titans Vs KKR,Titans,6,David Miller,2,3,0,0,66.66,0,13,David Miller,66.66666666666666
+Titans Vs KKR,KKR,1,Rahmanullah Gurbaz ,15,12,1,1,125.00,1,13,Rahmanullah Gurbaz ,125.0
+Titans Vs KKR,KKR,2,Narayan Jagadeesan,6,8,1,0,75.00,1,13,Narayan Jagadeesan,75.0
+Titans Vs KKR,KKR,3,Venkatesh Iyer,83,40,8,5,207.50,1,13,Venkatesh Iyer,207.50000000000003
+Titans Vs KKR,KKR,4,Nitish Rana(c),45,29,4,3,155.17,1,13,Nitish Rana,155.17241379310346
+Titans Vs KKR,KKR,5,Rinku Singh,48,21,1,6,228.57,0,13,Rinku Singh,228.57142857142856
+Titans Vs KKR,KKR,6,Andre Russell,1,2,0,0,50.00,1,13,Andre Russell,50.0
+Titans Vs KKR,KKR,7,Sunil Narine,0,1,0,0,0.00,1,13,Sunil Narine,0.0
+Titans Vs KKR,KKR,8,Shardul Thakur,0,1,0,0,0.00,1,13,Shardul Thakur,0.0
+Titans Vs KKR,KKR,9,Umesh Yadav,5,6,0,0,83.33,0,13,Umesh Yadav,83.33333333333334
+Punjab Kings Vs Sunrisers,Punjab Kings,1,Prabhsimran Singh,0,1,0,0,0.00,1,14,Prabhsimran Singh,0.0
+Punjab Kings Vs Sunrisers,Punjab Kings,2,Shikhar Dhawan(c),99,66,12,5,150.00,0,14,Shikhar Dhawan,150.0
+Punjab Kings Vs Sunrisers,Punjab Kings,3,Matthew Short,1,3,0,0,33.33,1,14,Matthew Short,33.33333333333333
+Punjab Kings Vs Sunrisers,Punjab Kings,4,Jitesh Sharma ,4,9,1,0,44.44,1,14,Jitesh Sharma ,44.44444444444444
+Punjab Kings Vs Sunrisers,Punjab Kings,5,Sam Curran,22,15,3,1,146.66,1,14,Sam Curran,146.66666666666666
+Punjab Kings Vs Sunrisers,Punjab Kings,6,Sikandar Raza,5,6,0,0,83.33,1,14,Sikandar Raza,83.33333333333334
+Punjab Kings Vs Sunrisers,Punjab Kings,7,M Shahrukh Khan,4,3,1,0,133.33,1,14,M Shahrukh Khan,133.33333333333331
+Punjab Kings Vs Sunrisers,Punjab Kings,8,Harpreet Brar,1,2,0,0,50.00,1,14,Harpreet Brar,50.0
+Punjab Kings Vs Sunrisers,Punjab Kings,9,Rahul Chahar,0,8,0,0,0.00,1,14,Rahul Chahar,0.0
+Punjab Kings Vs Sunrisers,Punjab Kings,10,Nathan Ellis,0,5,0,0,0.00,1,14,Nathan Ellis,0.0
+Punjab Kings Vs Sunrisers,Punjab Kings,11,Mohit Rathee,1,2,0,0,50.00,0,14,Mohit Rathee,50.0
+Punjab Kings Vs Sunrisers,Sunrisers,1,Harry Brook,13,14,3,0,92.85,1,14,Harry Brook,92.85714285714286
+Punjab Kings Vs Sunrisers,Sunrisers,2,Mayank Agarwal,21,20,3,0,105.00,1,14,Mayank Agarwal,105.0
+Punjab Kings Vs Sunrisers,Sunrisers,3,Rahul Tripathi,74,48,10,3,154.16,0,14,Rahul Tripathi,154.16666666666669
+Punjab Kings Vs Sunrisers,Sunrisers,4,Aiden Markram(c),37,21,6,0,176.19,0,14,Aiden Markram,176.19047619047618
+RCB Vs Super Giants,RCB,1,Virat Kohli,61,44,4,4,138.63,1,15,Virat Kohli,138.63636363636365
+RCB Vs Super Giants,RCB,2,Faf du Plessis(c),79,46,5,5,171.73,0,15,Faf du Plessis,171.73913043478262
+RCB Vs Super Giants,RCB,3,Glenn Maxwell,59,29,3,6,203.44,1,15,Glenn Maxwell,203.44827586206895
+RCB Vs Super Giants,RCB,4,Dinesh Karthik ,1,1,0,0,100.00,0,15,Dinesh Karthik ,100.0
+RCB Vs Super Giants,Super Giants,1,Kyle Mayers,0,3,0,0,0.00,1,15,Kyle Mayers,0.0
+RCB Vs Super Giants,Super Giants,2,KL Rahul(c),18,20,1,0,90.00,1,15,KL Rahul,90.0
+RCB Vs Super Giants,Super Giants,3,Deepak Hooda,9,10,1,0,90.00,1,15,Deepak Hooda,90.0
+RCB Vs Super Giants,Super Giants,4,Krunal Pandya,0,2,0,0,0.00,1,15,Krunal Pandya,0.0
+RCB Vs Super Giants,Super Giants,5,Marcus Stoinis,65,30,6,5,216.66,1,15,Marcus Stoinis,216.66666666666666
+RCB Vs Super Giants,Super Giants,6,Nicholas Pooran ,62,19,4,7,326.31,1,15,Nicholas Pooran ,326.3157894736842
+RCB Vs Super Giants,Super Giants,7,Ayush Badoni,30,24,4,0,125.00,1,15,Ayush Badoni,125.0
+RCB Vs Super Giants,Super Giants,8,Jaydev Unadkat,9,7,1,0,128.57,1,15,Jaydev Unadkat,128.57142857142858
+RCB Vs Super Giants,Super Giants,9,Mark Wood,1,2,0,0,50.00,1,15,Mark Wood,50.0
+RCB Vs Super Giants,Super Giants,10,Ravi Bishnoi,3,2,0,0,150.00,0,15,Ravi Bishnoi,150.0
+RCB Vs Super Giants,Super Giants,11,Avesh Khan,0,1,0,0,0.00,0,15,Avesh Khan,0.0
+Capitals Vs Mumbai,Capitals,1,David Warner(c),51,47,6,0,108.51,1,16,David Warner,108.51063829787233
+Capitals Vs Mumbai,Capitals,2,Prithvi Shaw,15,10,3,0,150.00,1,16,Prithvi Shaw,150.0
+Capitals Vs Mumbai,Capitals,3,Manish Pandey,26,18,5,0,144.44,1,16,Manish Pandey,144.44444444444443
+Capitals Vs Mumbai,Capitals,4,Yash Dhull,2,4,0,0,50.00,1,16,Yash Dhull,50.0
+Capitals Vs Mumbai,Capitals,5,Rovman Powell,4,4,1,0,100.00,1,16,Rovman Powell,100.0
+Capitals Vs Mumbai,Capitals,6,Lalit Yadav,2,4,0,0,50.00,1,16,Lalit Yadav,50.0
+Capitals Vs Mumbai,Capitals,7,Axar Patel,54,25,4,5,216.00,1,16,Axar Patel,216.0
+Capitals Vs Mumbai,Capitals,8,Abishek Porel ,1,3,0,0,33.33,1,16,Abishek Porel ,33.33333333333333
+Capitals Vs Mumbai,Capitals,9,Kuldeep Yadav,0,1,0,0,0.00,1,16,Kuldeep Yadav,0.0
+Capitals Vs Mumbai,Capitals,10,Anrich Nortje,5,3,1,0,166.66,1,16,Anrich Nortje,166.66666666666669
+Capitals Vs Mumbai,Capitals,11,Mustafizur Rahman,1,1,0,0,100.00,0,16,Mustafizur Rahman,100.0
+Capitals Vs Mumbai,Mumbai,1,Rohit Sharma(c),65,45,6,4,144.44,1,16,Rohit Sharma,144.44444444444443
+Capitals Vs Mumbai,Mumbai,2,Ishan Kishan ,31,26,6,0,119.23,1,16,Ishan Kishan ,119.23076923076923
+Capitals Vs Mumbai,Mumbai,3,Tilak Varma,41,29,1,4,141.37,1,16,Tilak Varma,141.3793103448276
+Capitals Vs Mumbai,Mumbai,4,Suryakumar Yadav,0,1,0,0,0.00,1,16,Suryakumar Yadav,0.0
+Capitals Vs Mumbai,Mumbai,5,Tim David,13,11,0,1,118.18,0,16,Tim David,118.18181818181819
+Capitals Vs Mumbai,Mumbai,6,Cameron Green,17,8,1,1,212.50,0,16,Cameron Green,212.5
+Royals Vs Super Kings,Royals,1,Yashasvi Jaiswal,10,8,2,0,125.00,1,17,Yashasvi Jaiswal,125.0
+Royals Vs Super Kings,Royals,2,Jos Buttler,52,36,1,3,144.44,1,17,Jos Buttler,144.44444444444443
+Royals Vs Super Kings,Royals,3,Devdutt Padikkal,38,26,5,0,146.15,1,17,Devdutt Padikkal,146.15384615384613
+Royals Vs Super Kings,Royals,4,Sanju Samson(c) ,0,2,0,0,0.00,1,17,Sanju Samson ,0.0
+Royals Vs Super Kings,Royals,5,Ravichandran Ashwin,30,22,1,2,136.36,1,17,Ravichandran Ashwin,136.36363636363635
+Royals Vs Super Kings,Royals,6,Shimron Hetmyer,30,18,2,2,166.66,0,17,Shimron Hetmyer,166.66666666666669
+Royals Vs Super Kings,Royals,7,Dhruv Jurel,4,6,0,0,66.66,1,17,Dhruv Jurel,66.66666666666666
+Royals Vs Super Kings,Royals,8,Jason Holder,0,1,0,0,0.00,1,17,Jason Holder,0.0
+Royals Vs Super Kings,Royals,9,Adam Zampa,1,1,0,0,100.00,1,17,Adam Zampa,100.0
+Royals Vs Super Kings,Super Kings,1,Ruturaj Gaikwad,8,10,1,0,80.00,1,17,Ruturaj Gaikwad,80.0
+Royals Vs Super Kings,Super Kings,2,Devon Conway,50,38,6,0,131.57,1,17,Devon Conway,131.57894736842107
+Royals Vs Super Kings,Super Kings,3,Ajinkya Rahane,31,19,2,1,163.15,1,17,Ajinkya Rahane,163.1578947368421
+Royals Vs Super Kings,Super Kings,4,Shivam Dube,8,9,1,0,88.88,1,17,Shivam Dube,88.88888888888889
+Royals Vs Super Kings,Super Kings,5,Moeen Ali,7,10,0,0,70.00,1,17,Moeen Ali,70.0
+Royals Vs Super Kings,Super Kings,6,Ambati Rayudu,1,2,0,0,50.00,1,17,Ambati Rayudu,50.0
+Royals Vs Super Kings,Super Kings,7,Ravindra Jadeja,25,15,1,2,166.66,0,17,Ravindra Jadeja,166.66666666666669
+Royals Vs Super Kings,Super Kings,8,MS Dhoni(c) ,32,17,1,3,188.23,0,17,MS Dhoni ,188.23529411764704
+Punjab Kings Vs Titans,Punjab Kings,1,Prabhsimran Singh,0,2,0,0,0.00,1,18,Prabhsimran Singh,0.0
+Punjab Kings Vs Titans,Punjab Kings,2,Shikhar Dhawan(c),8,8,2,0,100.00,1,18,Shikhar Dhawan,100.0
+Punjab Kings Vs Titans,Punjab Kings,3,Matthew Short,36,24,6,1,150.00,1,18,Matthew Short,150.0
+Punjab Kings Vs Titans,Punjab Kings,4,Bhanuka Rajapaksa,20,26,1,0,76.92,1,18,Bhanuka Rajapaksa,76.92307692307693
+Punjab Kings Vs Titans,Punjab Kings,5,Jitesh Sharma ,25,23,5,0,108.69,1,18,Jitesh Sharma ,108.69565217391303
+Punjab Kings Vs Titans,Punjab Kings,6,Sam Curran,22,22,1,1,100.00,1,18,Sam Curran,100.0
+Punjab Kings Vs Titans,Punjab Kings,7,M Shahrukh Khan,22,9,1,2,244.44,1,18,M Shahrukh Khan,244.44444444444446
+Punjab Kings Vs Titans,Punjab Kings,8,Harpreet Brar,8,5,0,1,160.00,0,18,Harpreet Brar,160.0
+Punjab Kings Vs Titans,Punjab Kings,9,Rishi Dhawan,1,1,0,0,100.00,1,18,Rishi Dhawan,100.0
+Punjab Kings Vs Titans,Titans,1,Wriddhiman Saha ,30,19,5,0,157.89,1,18,Wriddhiman Saha ,157.89473684210526
+Punjab Kings Vs Titans,Titans,2,Shubman Gill,67,49,7,1,136.73,1,18,Shubman Gill,136.73469387755102
+Punjab Kings Vs Titans,Titans,3,Sai Sudharsan,19,20,2,0,95.00,1,18,Sai Sudharsan,95.0
+Punjab Kings Vs Titans,Titans,4,Hardik Pandya(c),8,11,1,0,72.72,1,18,Hardik Pandya,72.72727272727273
+Punjab Kings Vs Titans,Titans,5,David Miller,17,18,1,0,94.44,0,18,David Miller,94.44444444444444
+Punjab Kings Vs Titans,Titans,6,Rahul Tewatia,5,2,1,0,250.00,0,18,Rahul Tewatia,250.0
+Sunrisers Vs KKR,Sunrisers,1,Harry Brook,100,55,12,3,181.81,0,19,Harry Brook,181.8181818181818
+Sunrisers Vs KKR,Sunrisers,2,Mayank Agarwal,9,13,0,0,69.23,1,19,Mayank Agarwal,69.23076923076923
+Sunrisers Vs KKR,Sunrisers,3,Rahul Tripathi,9,4,2,0,225.00,1,19,Rahul Tripathi,225.0
+Sunrisers Vs KKR,Sunrisers,4,Aiden Markram(c),50,26,2,5,192.30,1,19,Aiden Markram,192.30769230769232
+Sunrisers Vs KKR,Sunrisers,5,Abhishek Sharma,32,17,3,2,188.23,1,19,Abhishek Sharma,188.23529411764704
+Sunrisers Vs KKR,Sunrisers,6,Heinrich Klaasen ,16,6,2,1,266.66,0,19,Heinrich Klaasen ,266.66666666666663
+Sunrisers Vs KKR,KKR,1,Rahmanullah Gurbaz ,0,3,0,0,0.00,1,19,Rahmanullah Gurbaz ,0.0
+Sunrisers Vs KKR,KKR,2,Narayan Jagadeesan,36,21,5,1,171.42,1,19,Narayan Jagadeesan,171.42857142857142
+Sunrisers Vs KKR,KKR,3,Venkatesh Iyer,10,11,2,0,90.90,1,19,Venkatesh Iyer,90.9090909090909
+Sunrisers Vs KKR,KKR,4,Sunil Narine,0,1,0,0,0.00,1,19,Sunil Narine,0.0
+Sunrisers Vs KKR,KKR,5,Nitish Rana(c),75,41,5,6,182.92,1,19,Nitish Rana,182.9268292682927
+Sunrisers Vs KKR,KKR,6,Andre Russell,3,6,0,0,50.00,1,19,Andre Russell,50.0
+Sunrisers Vs KKR,KKR,7,Rinku Singh,58,31,4,4,187.09,0,19,Rinku Singh,187.09677419354838
+Sunrisers Vs KKR,KKR,8,Shardul Thakur,12,7,2,0,171.42,1,19,Shardul Thakur,171.42857142857142
+Sunrisers Vs KKR,KKR,9,Umesh Yadav,1,1,0,0,100.00,0,19,Umesh Yadav,100.0
+RCB Vs Capitals,RCB,1,Virat Kohli,50,34,6,1,147.05,1,20,Virat Kohli,147.05882352941177
+RCB Vs Capitals,RCB,2,Faf du Plessis(c),22,16,3,1,137.50,1,20,Faf du Plessis,137.5
+RCB Vs Capitals,RCB,3,Mahipal Lomror,26,18,0,2,144.44,1,20,Mahipal Lomror,144.44444444444443
+RCB Vs Capitals,RCB,4,Glenn Maxwell,24,14,0,3,171.42,1,20,Glenn Maxwell,171.42857142857142
+RCB Vs Capitals,RCB,5,Harshal Patel,6,4,0,1,150.00,1,20,Harshal Patel,150.0
+RCB Vs Capitals,RCB,6,Shahbaz Ahmed,20,12,3,0,166.66,0,20,Shahbaz Ahmed,166.66666666666669
+RCB Vs Capitals,RCB,7,Dinesh Karthik ,0,1,0,0,0.00,1,20,Dinesh Karthik ,0.0
+RCB Vs Capitals,RCB,8,Anuj Rawat,15,22,1,0,68.18,0,20,Anuj Rawat,68.18181818181817
+RCB Vs Capitals,Capitals,1,David Warner(c),19,13,4,0,146.15,1,20,David Warner,146.15384615384613
+RCB Vs Capitals,Capitals,2,Prithvi Shaw,0,2,0,0,0.00,1,20,Prithvi Shaw,0.0
+RCB Vs Capitals,Capitals,3,Mitchell Marsh,0,4,0,0,0.00,1,20,Mitchell Marsh,0.0
+RCB Vs Capitals,Capitals,4,Yash Dhull,1,4,0,0,25.00,1,20,Yash Dhull,25.0
+RCB Vs Capitals,Capitals,5,Manish Pandey,50,38,5,1,131.57,1,20,Manish Pandey,131.57894736842107
+RCB Vs Capitals,Capitals,6,Abishek Porel ,5,8,0,0,62.50,1,20,Abishek Porel ,62.5
+RCB Vs Capitals,Capitals,7,Axar Patel,21,14,3,0,150.00,1,20,Axar Patel,150.0
+RCB Vs Capitals,Capitals,8,Aman Hakim Khan,18,10,1,1,180.00,1,20,Aman Hakim Khan,180.0
+RCB Vs Capitals,Capitals,9,Lalit Yadav,4,7,0,0,57.14,1,20,Lalit Yadav,57.14285714285714
+RCB Vs Capitals,Capitals,10,Anrich Nortje,23,14,4,0,164.28,0,20,Anrich Nortje,164.28571428571428
+RCB Vs Capitals,Capitals,11,Kuldeep Yadav,7,6,1,0,116.66,0,20,Kuldeep Yadav,116.66666666666667
+Super Giants Vs Punjab Kings,Super Giants,1,KL Rahul(c),74,56,8,1,132.14,1,21,KL Rahul,132.14285714285714
+Super Giants Vs Punjab Kings,Super Giants,2,Kyle Mayers,29,23,1,3,126.08,1,21,Kyle Mayers,126.08695652173914
+Super Giants Vs Punjab Kings,Super Giants,3,Deepak Hooda,2,3,0,0,66.66,1,21,Deepak Hooda,66.66666666666666
+Super Giants Vs Punjab Kings,Super Giants,4,Krunal Pandya,18,17,2,0,105.88,1,21,Krunal Pandya,105.88235294117648
+Super Giants Vs Punjab Kings,Super Giants,5,Nicholas Pooran ,0,1,0,0,0.00,1,21,Nicholas Pooran ,0.0
+Super Giants Vs Punjab Kings,Super Giants,6,Marcus Stoinis,15,11,0,2,136.36,1,21,Marcus Stoinis,136.36363636363635
+Super Giants Vs Punjab Kings,Super Giants,7,Ayush Badoni,5,6,0,0,83.33,0,21,Ayush Badoni,83.33333333333334
+Super Giants Vs Punjab Kings,Super Giants,8,Krishnappa Gowtham,1,2,0,0,50.00,1,21,Krishnappa Gowtham,50.0
+Super Giants Vs Punjab Kings,Super Giants,9,Yudhvir Singh,0,1,0,0,0.00,1,21,Yudhvir Singh,0.0
+Super Giants Vs Punjab Kings,Super Giants,10,Ravi Bishnoi,3,1,0,0,300.00,0,21,Ravi Bishnoi,300.0
+Super Giants Vs Punjab Kings,Punjab Kings,1,Atharva Taide,0,3,0,0,0.00,1,21,Atharva Taide,0.0
+Super Giants Vs Punjab Kings,Punjab Kings,2,Prabhsimran Singh,4,4,1,0,100.00,1,21,Prabhsimran Singh,100.0
+Super Giants Vs Punjab Kings,Punjab Kings,3,Matthew Short,34,22,5,1,154.54,1,21,Matthew Short,154.54545454545453
+Super Giants Vs Punjab Kings,Punjab Kings,4,Harpreet Singh,22,22,3,0,100.00,1,21,Harpreet Singh,100.0
+Super Giants Vs Punjab Kings,Punjab Kings,5,Sikandar Raza,57,41,4,3,139.02,1,21,Sikandar Raza,139.02439024390242
+Super Giants Vs Punjab Kings,Punjab Kings,6,Sam Curran(c),6,6,1,0,100.00,1,21,Sam Curran,100.0
+Super Giants Vs Punjab Kings,Punjab Kings,7,Jitesh Sharma ,2,4,0,0,50.00,1,21,Jitesh Sharma ,50.0
+Super Giants Vs Punjab Kings,Punjab Kings,8,M Shahrukh Khan,23,10,1,2,230.00,0,21,M Shahrukh Khan,229.99999999999997
+Super Giants Vs Punjab Kings,Punjab Kings,9,Harpreet Brar,6,4,1,0,150.00,1,21,Harpreet Brar,150.0
+Super Giants Vs Punjab Kings,Punjab Kings,10,Kagiso Rabada,0,1,0,0,0.00,0,21,Kagiso Rabada,0.0
+KKR Vs Mumbai,KKR,1,Rahmanullah Gurbaz ,8,12,0,0,66.66,1,22,Rahmanullah Gurbaz ,66.66666666666666
+KKR Vs Mumbai,KKR,2,Narayan Jagadeesan,0,5,0,0,0.00,1,22,Narayan Jagadeesan,0.0
+KKR Vs Mumbai,KKR,3,Venkatesh Iyer,104,51,6,9,203.92,1,22,Venkatesh Iyer,203.92156862745097
+KKR Vs Mumbai,KKR,4,Nitish Rana(c),5,10,0,0,50.00,1,22,Nitish Rana,50.0
+KKR Vs Mumbai,KKR,5,Shardul Thakur,13,11,1,0,118.18,1,22,Shardul Thakur,118.18181818181819
+KKR Vs Mumbai,KKR,6,Rinku Singh,18,18,2,0,100.00,1,22,Rinku Singh,100.0
+KKR Vs Mumbai,KKR,7,Andre Russell,21,11,3,1,190.90,0,22,Andre Russell,190.9090909090909
+KKR Vs Mumbai,KKR,8,Sunil Narine,2,2,0,0,100.00,0,22,Sunil Narine,100.0
+KKR Vs Mumbai,Mumbai,1,Rohit Sharma,20,13,1,2,153.84,1,22,Rohit Sharma,153.84615384615387
+KKR Vs Mumbai,Mumbai,2,Ishan Kishan ,58,25,5,5,232.00,1,22,Ishan Kishan ,231.99999999999997
+KKR Vs Mumbai,Mumbai,3,Suryakumar Yadav(c),43,25,4,3,172.00,1,22,Suryakumar Yadav,172.0
+KKR Vs Mumbai,Mumbai,4,Tilak Varma,30,25,3,1,120.00,1,22,Tilak Varma,120.0
+KKR Vs Mumbai,Mumbai,5,Tim David,24,13,1,2,184.61,0,22,Tim David,184.6153846153846
+KKR Vs Mumbai,Mumbai,6,Nehal Wadhera,6,4,1,0,150.00,1,22,Nehal Wadhera,150.0
+KKR Vs Mumbai,Mumbai,7,Cameron Green,1,1,0,0,100.00,0,22,Cameron Green,100.0
+Titans Vs Royals,Titans,1,Wriddhiman Saha ,4,3,1,0,133.33,1,23,Wriddhiman Saha ,133.33333333333331
+Titans Vs Royals,Titans,2,Shubman Gill,45,34,4,1,132.35,1,23,Shubman Gill,132.35294117647058
+Titans Vs Royals,Titans,3,Sai Sudharsan,20,19,2,0,105.26,1,23,Sai Sudharsan,105.26315789473684
+Titans Vs Royals,Titans,4,Hardik Pandya(c),28,19,3,1,147.36,1,23,Hardik Pandya,147.36842105263156
+Titans Vs Royals,Titans,5,David Miller,46,30,3,2,153.33,1,23,David Miller,153.33333333333334
+Titans Vs Royals,Titans,6,Abhinav Manohar,27,13,0,3,207.69,1,23,Abhinav Manohar,207.6923076923077
+Titans Vs Royals,Titans,7,Rahul Tewatia,1,1,0,0,100.00,0,23,Rahul Tewatia,100.0
+Titans Vs Royals,Titans,8,Rashid Khan,1,1,0,0,100.00,1,23,Rashid Khan,100.0
+Titans Vs Royals,Titans,9,Alzarri Joseph,0,0,0,0,-,0,23,Alzarri Joseph,0.0
+Titans Vs Royals,Royals,1,Yashasvi Jaiswal,1,7,0,0,14.28,1,23,Yashasvi Jaiswal,14.285714285714285
+Titans Vs Royals,Royals,2,Jos Buttler,0,5,0,0,0.00,1,23,Jos Buttler,0.0
+Titans Vs Royals,Royals,3,Devdutt Padikkal,26,25,2,2,104.00,1,23,Devdutt Padikkal,104.0
+Titans Vs Royals,Royals,4,Sanju Samson(c) ,60,32,3,6,187.50,1,23,Sanju Samson ,187.5
+Titans Vs Royals,Royals,5,Riyan Parag,5,7,0,0,71.42,1,23,Riyan Parag,71.42857142857143
+Titans Vs Royals,Royals,6,Shimron Hetmyer,56,26,2,5,215.38,0,23,Shimron Hetmyer,215.3846153846154
+Titans Vs Royals,Royals,7,Dhruv Jurel,18,10,2,1,180.00,1,23,Dhruv Jurel,180.0
+Titans Vs Royals,Royals,8,Ravichandran Ashwin,10,3,1,1,333.33,1,23,Ravichandran Ashwin,333.33333333333337
+Titans Vs Royals,Royals,9,Trent Boult,0,1,0,0,0.00,0,23,Trent Boult,0.0
+Super Kings Vs RCB,Super Kings,1,Ruturaj Gaikwad,3,6,0,0,50.00,1,24,Ruturaj Gaikwad,50.0
+Super Kings Vs RCB,Super Kings,2,Devon Conway,83,45,6,6,184.44,1,24,Devon Conway,184.44444444444446
+Super Kings Vs RCB,Super Kings,3,Ajinkya Rahane,37,20,3,2,185.00,1,24,Ajinkya Rahane,185.0
+Super Kings Vs RCB,Super Kings,4,Shivam Dube,52,27,2,5,192.59,1,24,Shivam Dube,192.59259259259258
+Super Kings Vs RCB,Super Kings,5,Ambati Rayudu,14,6,1,1,233.33,1,24,Ambati Rayudu,233.33333333333334
+Super Kings Vs RCB,Super Kings,6,Moeen Ali,19,9,0,2,211.11,0,24,Moeen Ali,211.11111111111111
+Super Kings Vs RCB,Super Kings,7,Ravindra Jadeja,10,8,0,1,125.00,1,24,Ravindra Jadeja,125.0
+Super Kings Vs RCB,Super Kings,8,MS Dhoni(c) ,1,1,0,0,100.00,0,24,MS Dhoni ,100.0
+Super Kings Vs RCB,RCB,1,Virat Kohli,6,4,1,0,150.00,1,24,Virat Kohli,150.0
+Super Kings Vs RCB,RCB,2,Faf du Plessis(c),62,33,5,4,187.87,1,24,Faf du Plessis,187.87878787878788
+Super Kings Vs RCB,RCB,3,Mahipal Lomror,0,5,0,0,0.00,1,24,Mahipal Lomror,0.0
+Super Kings Vs RCB,RCB,4,Glenn Maxwell,76,36,3,8,211.11,1,24,Glenn Maxwell,211.11111111111111
+Super Kings Vs RCB,RCB,5,Shahbaz Ahmed,12,10,0,1,120.00,1,24,Shahbaz Ahmed,120.0
+Super Kings Vs RCB,RCB,6,Dinesh Karthik ,28,14,3,1,200.00,1,24,Dinesh Karthik ,200.0
+Super Kings Vs RCB,RCB,7,Suyash Prabhudessai,19,11,0,2,172.72,1,24,Suyash Prabhudessai,172.72727272727272
+Super Kings Vs RCB,RCB,8,Wayne Parnell,2,5,0,0,40.00,1,24,Wayne Parnell,40.0
+Super Kings Vs RCB,RCB,9,Wanindu Hasaranga,2,2,0,0,100.00,0,24,Wanindu Hasaranga,100.0
+Mumbai Vs Sunrisers,Mumbai,1,Rohit Sharma(c),28,18,6,0,155.55,1,25,Rohit Sharma,155.55555555555557
+Mumbai Vs Sunrisers,Mumbai,2,Ishan Kishan ,38,31,3,2,122.58,1,25,Ishan Kishan ,122.58064516129032
+Mumbai Vs Sunrisers,Mumbai,3,Cameron Green,64,40,6,2,160.00,0,25,Cameron Green,160.0
+Mumbai Vs Sunrisers,Mumbai,4,Suryakumar Yadav,7,3,0,1,233.33,1,25,Suryakumar Yadav,233.33333333333334
+Mumbai Vs Sunrisers,Mumbai,5,Tilak Varma,37,17,2,4,217.64,1,25,Tilak Varma,217.6470588235294
+Mumbai Vs Sunrisers,Mumbai,6,Tim David,16,11,2,0,145.45,1,25,Tim David,145.45454545454547
+Mumbai Vs Sunrisers,Sunrisers,1,Harry Brook,9,7,2,0,128.57,1,25,Harry Brook,128.57142857142858
+Mumbai Vs Sunrisers,Sunrisers,2,Mayank Agarwal,48,41,4,1,117.07,1,25,Mayank Agarwal,117.07317073170731
+Mumbai Vs Sunrisers,Sunrisers,3,Rahul Tripathi,7,5,1,0,140.00,1,25,Rahul Tripathi,140.0
+Mumbai Vs Sunrisers,Sunrisers,4,Aiden Markram(c),22,17,1,1,129.41,1,25,Aiden Markram,129.41176470588235
+Mumbai Vs Sunrisers,Sunrisers,5,Abhishek Sharma,1,2,0,0,50.00,1,25,Abhishek Sharma,50.0
+Mumbai Vs Sunrisers,Sunrisers,6,Heinrich Klaasen ,36,16,4,2,225.00,1,25,Heinrich Klaasen ,225.0
+Mumbai Vs Sunrisers,Sunrisers,7,Abdul Samad,9,12,1,0,75.00,1,25,Abdul Samad,75.0
+Mumbai Vs Sunrisers,Sunrisers,8,Marco Jansen,13,6,3,0,216.66,1,25,Marco Jansen,216.66666666666666
+Mumbai Vs Sunrisers,Sunrisers,9,Washington Sundar,10,6,2,0,166.66,1,25,Washington Sundar,166.66666666666669
+Mumbai Vs Sunrisers,Sunrisers,10,Bhuvneshwar Kumar,2,5,0,0,40.00,1,25,Bhuvneshwar Kumar,40.0
+Mumbai Vs Sunrisers,Sunrisers,11,Mayank Markande,2,2,0,0,100.00,0,25,Mayank Markande,100.0
+Super Giants Vs Royals,Super Giants,1,KL Rahul(c),39,32,4,1,121.87,1,26,KL Rahul,121.875
+Super Giants Vs Royals,Super Giants,2,Kyle Mayers,51,42,4,3,121.42,1,26,Kyle Mayers,121.42857142857142
+Super Giants Vs Royals,Super Giants,3,Ayush Badoni,1,4,0,0,25.00,1,26,Ayush Badoni,25.0
+Super Giants Vs Royals,Super Giants,4,Deepak Hooda,2,4,0,0,50.00,1,26,Deepak Hooda,50.0
+Super Giants Vs Royals,Super Giants,5,Marcus Stoinis,21,16,2,0,131.25,1,26,Marcus Stoinis,131.25
+Super Giants Vs Royals,Super Giants,6,Nicholas Pooran ,29,20,2,1,145.00,1,26,Nicholas Pooran ,145.0
+Super Giants Vs Royals,Super Giants,7,Krunal Pandya,4,2,1,0,200.00,0,26,Krunal Pandya,200.0
+Super Giants Vs Royals,Super Giants,8,Yudhvir Singh,1,1,0,0,100.00,1,26,Yudhvir Singh,100.0
+Super Giants Vs Royals,Royals,1,Yashasvi Jaiswal,44,35,4,2,125.71,1,26,Yashasvi Jaiswal,125.71428571428571
+Super Giants Vs Royals,Royals,2,Jos Buttler,40,41,4,1,97.56,1,26,Jos Buttler,97.5609756097561
+Super Giants Vs Royals,Royals,3,Sanju Samson(c) ,2,4,0,0,50.00,1,26,Sanju Samson ,50.0
+Super Giants Vs Royals,Royals,4,Devdutt Padikkal,26,21,4,0,123.80,1,26,Devdutt Padikkal,123.80952380952381
+Super Giants Vs Royals,Royals,5,Shimron Hetmyer,2,5,0,0,40.00,1,26,Shimron Hetmyer,40.0
+Super Giants Vs Royals,Royals,6,Riyan Parag,15,12,1,1,125.00,0,26,Riyan Parag,125.0
+Super Giants Vs Royals,Royals,7,Dhruv Jurel,0,1,0,0,0.00,1,26,Dhruv Jurel,0.0
+Super Giants Vs Royals,Royals,8,Ravichandran Ashwin,3,2,0,0,150.00,0,26,Ravichandran Ashwin,150.0
+RCB Vs Punjab Kings,RCB,1,Virat Kohli(c),59,47,5,1,125.53,1,27,Virat Kohli,125.53191489361701
+RCB Vs Punjab Kings,RCB,2,Faf du Plessis,84,56,5,5,150.00,1,27,Faf du Plessis,150.0
+RCB Vs Punjab Kings,RCB,3,Glenn Maxwell,0,1,0,0,0.00,1,27,Glenn Maxwell,0.0
+RCB Vs Punjab Kings,RCB,4,Dinesh Karthik ,7,5,1,0,140.00,1,27,Dinesh Karthik ,140.0
+RCB Vs Punjab Kings,RCB,5,Mahipal Lomror,7,9,1,0,77.77,0,27,Mahipal Lomror,77.77777777777779
+RCB Vs Punjab Kings,RCB,6,Shahbaz Ahmed,5,3,0,0,166.66,0,27,Shahbaz Ahmed,166.66666666666669
+RCB Vs Punjab Kings,Punjab Kings,1,Atharva Taide,4,2,1,0,200.00,1,27,Atharva Taide,200.0
+RCB Vs Punjab Kings,Punjab Kings,2,Prabhsimran Singh,46,30,3,4,153.33,1,27,Prabhsimran Singh,153.33333333333334
+RCB Vs Punjab Kings,Punjab Kings,3,Matthew Short,8,7,0,1,114.28,1,27,Matthew Short,114.28571428571428
+RCB Vs Punjab Kings,Punjab Kings,4,Liam Livingstone,2,4,0,0,50.00,1,27,Liam Livingstone,50.0
+RCB Vs Punjab Kings,Punjab Kings,5,Harpreet Singh,13,9,1,1,144.44,1,27,Harpreet Singh,144.44444444444443
+RCB Vs Punjab Kings,Punjab Kings,6,Sam Curran(c),10,12,1,0,83.33,1,27,Sam Curran,83.33333333333334
+RCB Vs Punjab Kings,Punjab Kings,7,Jitesh Sharma ,41,27,2,3,151.85,1,27,Jitesh Sharma ,151.85185185185185
+RCB Vs Punjab Kings,Punjab Kings,8,M Shahrukh Khan,7,5,0,1,140.00,1,27,M Shahrukh Khan,140.0
+RCB Vs Punjab Kings,Punjab Kings,9,Harpreet Brar,13,13,1,0,100.00,1,27,Harpreet Brar,100.0
+RCB Vs Punjab Kings,Punjab Kings,10,Nathan Ellis,1,2,0,0,50.00,1,27,Nathan Ellis,50.0
+RCB Vs Punjab Kings,Punjab Kings,11,Arshdeep Singh,0,0,0,0,-,0,27,Arshdeep Singh,0.0
+KKR Vs Capitals,KKR,1,Jason Roy,43,39,5,1,110.25,1,28,Jason Roy,110.25641025641026
+KKR Vs Capitals,KKR,2,Litton Das ,4,4,1,0,100.00,1,28,Litton Das ,100.0
+KKR Vs Capitals,KKR,3,Venkatesh Iyer,0,2,0,0,0.00,1,28,Venkatesh Iyer,0.0
+KKR Vs Capitals,KKR,4,Nitish Rana(c),4,7,1,0,57.14,1,28,Nitish Rana,57.14285714285714
+KKR Vs Capitals,KKR,5,Mandeep Singh,12,11,0,1,109.09,1,28,Mandeep Singh,109.09090909090908
+KKR Vs Capitals,KKR,6,Rinku Singh,6,8,1,0,75.00,1,28,Rinku Singh,75.0
+KKR Vs Capitals,KKR,7,Sunil Narine,4,6,1,0,66.66,1,28,Sunil Narine,66.66666666666666
+KKR Vs Capitals,KKR,8,Andre Russell,38,31,1,4,122.58,0,28,Andre Russell,122.58064516129032
+KKR Vs Capitals,KKR,9,Anukul Roy,0,1,0,0,0.00,1,28,Anukul Roy,0.0
+KKR Vs Capitals,KKR,10,Umesh Yadav,3,5,0,0,60.00,1,28,Umesh Yadav,60.0
+KKR Vs Capitals,KKR,11,Varun Chakravarthy,1,6,0,0,16.66,1,28,Varun Chakravarthy,16.666666666666664
+KKR Vs Capitals,Capitals,1,David Warner(c),57,41,11,0,139.02,1,28,David Warner,139.02439024390242
+KKR Vs Capitals,Capitals,2,Prithvi Shaw,13,11,2,0,118.18,1,28,Prithvi Shaw,118.18181818181819
+KKR Vs Capitals,Capitals,3,Mitchell Marsh,2,9,0,0,22.22,1,28,Mitchell Marsh,22.22222222222222
+KKR Vs Capitals,Capitals,4,Phil Salt ,5,3,1,0,166.66,1,28,Phil Salt ,166.66666666666669
+KKR Vs Capitals,Capitals,5,Manish Pandey,21,23,2,0,91.30,1,28,Manish Pandey,91.30434782608695
+KKR Vs Capitals,Capitals,6,Axar Patel,19,22,1,0,86.36,0,28,Axar Patel,86.36363636363636
+KKR Vs Capitals,Capitals,7,Aman Hakim Khan,0,2,0,0,0.00,1,28,Aman Hakim Khan,0.0
+KKR Vs Capitals,Capitals,8,Lalit Yadav,4,7,0,0,57.14,0,28,Lalit Yadav,57.14285714285714
+Sunrisers Vs Super Kings,Sunrisers,1,Harry Brook,18,13,3,0,138.46,1,29,Harry Brook,138.46153846153845
+Sunrisers Vs Super Kings,Sunrisers,2,Abhishek Sharma,34,26,3,1,130.76,1,29,Abhishek Sharma,130.76923076923077
+Sunrisers Vs Super Kings,Sunrisers,3,Rahul Tripathi,21,21,1,1,100.00,1,29,Rahul Tripathi,100.0
+Sunrisers Vs Super Kings,Sunrisers,4,Aiden Markram(c),12,12,1,0,100.00,1,29,Aiden Markram,100.0
+Sunrisers Vs Super Kings,Sunrisers,5,Heinrich Klaasen ,17,16,1,0,106.25,1,29,Heinrich Klaasen ,106.25
+Sunrisers Vs Super Kings,Sunrisers,6,Mayank Agarwal,2,4,0,0,50.00,1,29,Mayank Agarwal,50.0
+Sunrisers Vs Super Kings,Sunrisers,7,Marco Jansen,17,22,1,0,77.27,0,29,Marco Jansen,77.27272727272727
+Sunrisers Vs Super Kings,Sunrisers,8,Washington Sundar,9,6,1,0,150.00,1,29,Washington Sundar,150.0
+Sunrisers Vs Super Kings,Super Kings,1,Ruturaj Gaikwad,35,30,2,0,116.66,1,29,Ruturaj Gaikwad,116.66666666666667
+Sunrisers Vs Super Kings,Super Kings,2,Devon Conway,77,57,12,1,135.08,0,29,Devon Conway,135.08771929824562
+Sunrisers Vs Super Kings,Super Kings,3,Ajinkya Rahane,9,10,0,0,90.00,1,29,Ajinkya Rahane,90.0
+Sunrisers Vs Super Kings,Super Kings,4,Ambati Rayudu,9,9,1,0,100.00,1,29,Ambati Rayudu,100.0
+Sunrisers Vs Super Kings,Super Kings,5,Moeen Ali,6,6,1,0,100.00,0,29,Moeen Ali,100.0
+Titans Vs Super Giants,Titans,1,Wriddhiman Saha ,47,37,6,0,127.02,1,30,Wriddhiman Saha ,127.02702702702702
+Titans Vs Super Giants,Titans,2,Shubman Gill,0,2,0,0,0.00,1,30,Shubman Gill,0.0
+Titans Vs Super Giants,Titans,3,Hardik Pandya(c),66,50,2,4,132.00,1,30,Hardik Pandya,132.0
+Titans Vs Super Giants,Titans,4,Abhinav Manohar,3,5,0,0,60.00,1,30,Abhinav Manohar,60.0
+Titans Vs Super Giants,Titans,5,Vijay Shankar,10,12,1,0,83.33,1,30,Vijay Shankar,83.33333333333334
+Titans Vs Super Giants,Titans,6,David Miller,6,12,0,0,50.00,1,30,David Miller,50.0
+Titans Vs Super Giants,Titans,7,Rahul Tewatia,2,2,0,0,100.00,0,30,Rahul Tewatia,100.0
+Titans Vs Super Giants,Super Giants,1,KL Rahul(c),68,61,8,0,111.47,1,30,KL Rahul,111.47540983606557
+Titans Vs Super Giants,Super Giants,2,Kyle Mayers,24,19,2,1,126.31,1,30,Kyle Mayers,126.3157894736842
+Titans Vs Super Giants,Super Giants,3,Krunal Pandya,23,23,2,1,100.00,1,30,Krunal Pandya,100.0
+Titans Vs Super Giants,Super Giants,4,Nicholas Pooran ,1,7,0,0,14.28,1,30,Nicholas Pooran ,14.285714285714285
+Titans Vs Super Giants,Super Giants,5,Ayush Badoni,8,6,0,0,133.33,1,30,Ayush Badoni,133.33333333333331
+Titans Vs Super Giants,Super Giants,6,Marcus Stoinis,0,1,0,0,0.00,1,30,Marcus Stoinis,0.0
+Titans Vs Super Giants,Super Giants,7,Deepak Hooda,2,2,0,0,100.00,1,30,Deepak Hooda,100.0
+Titans Vs Super Giants,Super Giants,8,Prerak Mankad,0,0,0,0,-,0,30,Prerak Mankad,0.0
+Titans Vs Super Giants,Super Giants,9,Ravi Bishnoi,0,1,0,0,0.00,0,30,Ravi Bishnoi,0.0
+Punjab Kings Vs Mumbai,Punjab Kings,1,Matthew Short,11,10,2,0,110.00,1,31,Matthew Short,110.00000000000001
+Punjab Kings Vs Mumbai,Punjab Kings,2,Prabhsimran Singh,26,17,1,2,152.94,1,31,Prabhsimran Singh,152.94117647058823
+Punjab Kings Vs Mumbai,Punjab Kings,3,Atharva Taide,29,17,3,1,170.58,1,31,Atharva Taide,170.58823529411765
+Punjab Kings Vs Mumbai,Punjab Kings,4,Liam Livingstone,10,12,0,1,83.33,1,31,Liam Livingstone,83.33333333333334
+Punjab Kings Vs Mumbai,Punjab Kings,5,Harpreet Singh,41,28,4,2,146.42,1,31,Harpreet Singh,146.42857142857142
+Punjab Kings Vs Mumbai,Punjab Kings,6,Sam Curran(c),55,29,5,4,189.65,1,31,Sam Curran,189.6551724137931
+Punjab Kings Vs Mumbai,Punjab Kings,7,Jitesh Sharma ,25,7,0,4,357.14,1,31,Jitesh Sharma ,357.14285714285717
+Punjab Kings Vs Mumbai,Punjab Kings,8,M Shahrukh Khan,0,0,0,0,-,0,31,M Shahrukh Khan,0.0
+Punjab Kings Vs Mumbai,Punjab Kings,9,Harpreet Brar,5,2,1,0,250.00,1,31,Harpreet Brar,250.0
+Punjab Kings Vs Mumbai,Mumbai,1,Rohit Sharma(c),44,27,4,3,162.96,1,31,Rohit Sharma,162.96296296296296
+Punjab Kings Vs Mumbai,Mumbai,2,Ishan Kishan ,1,4,0,0,25.00,1,31,Ishan Kishan ,25.0
+Punjab Kings Vs Mumbai,Mumbai,3,Cameron Green,67,43,6,3,155.81,1,31,Cameron Green,155.8139534883721
+Punjab Kings Vs Mumbai,Mumbai,4,Suryakumar Yadav,57,26,7,3,219.23,1,31,Suryakumar Yadav,219.23076923076925
+Punjab Kings Vs Mumbai,Mumbai,5,Tim David,25,13,0,2,192.30,0,31,Tim David,192.30769230769232
+Punjab Kings Vs Mumbai,Mumbai,6,Tilak Varma,3,4,0,0,75.00,1,31,Tilak Varma,75.0
+Punjab Kings Vs Mumbai,Mumbai,7,Nehal Wadhera,0,1,0,0,0.00,1,31,Nehal Wadhera,0.0
+Punjab Kings Vs Mumbai,Mumbai,8,Jofra Archer,1,2,0,0,50.00,0,31,Jofra Archer,50.0
+RCB Vs Royals,RCB,1,Virat Kohli(c),0,1,0,0,0.00,1,32,Virat Kohli,0.0
+RCB Vs Royals,RCB,2,Faf du Plessis,62,39,8,2,158.97,1,32,Faf du Plessis,158.97435897435898
+RCB Vs Royals,RCB,3,Shahbaz Ahmed,2,4,0,0,50.00,1,32,Shahbaz Ahmed,50.0
+RCB Vs Royals,RCB,4,Glenn Maxwell,77,44,6,4,175.00,1,32,Glenn Maxwell,175.0
+RCB Vs Royals,RCB,5,Mahipal Lomror,8,6,1,0,133.33,1,32,Mahipal Lomror,133.33333333333331
+RCB Vs Royals,RCB,6,Dinesh Karthik ,16,13,2,0,123.07,1,32,Dinesh Karthik ,123.07692307692308
+RCB Vs Royals,RCB,7,Suyash Prabhudessai,0,2,0,0,0.00,1,32,Suyash Prabhudessai,0.0
+RCB Vs Royals,RCB,8,Wanindu Hasaranga,6,7,0,0,85.71,1,32,Wanindu Hasaranga,85.71428571428571
+RCB Vs Royals,RCB,9,David Willey,4,2,1,0,200.00,0,32,David Willey,200.0
+RCB Vs Royals,RCB,10,Vijaykumar Vyshak,0,1,0,0,0.00,1,32,Vijaykumar Vyshak,0.0
+RCB Vs Royals,RCB,11,Mohammed Siraj,1,1,0,0,100.00,0,32,Mohammed Siraj,100.0
+RCB Vs Royals,Royals,1,Yashasvi Jaiswal,47,37,5,2,127.02,1,32,Yashasvi Jaiswal,127.02702702702702
+RCB Vs Royals,Royals,2,Jos Buttler,0,2,0,0,0.00,1,32,Jos Buttler,0.0
+RCB Vs Royals,Royals,3,Devdutt Padikkal,52,34,7,1,152.94,1,32,Devdutt Padikkal,152.94117647058823
+RCB Vs Royals,Royals,4,Sanju Samson(c) ,22,15,2,1,146.66,1,32,Sanju Samson ,146.66666666666666
+RCB Vs Royals,Royals,5,Shimron Hetmyer,3,9,0,0,33.33,1,32,Shimron Hetmyer,33.33333333333333
+RCB Vs Royals,Royals,6,Dhruv Jurel,34,16,2,2,212.50,0,32,Dhruv Jurel,212.5
+RCB Vs Royals,Royals,7,Ravichandran Ashwin,12,6,2,0,200.00,1,32,Ravichandran Ashwin,200.0
+RCB Vs Royals,Royals,8,Abdul Basith,1,1,0,0,100.00,0,32,Abdul Basith,100.0
+Super Kings Vs KKR,Super Kings,1,Ruturaj Gaikwad,35,20,2,3,175.00,1,33,Ruturaj Gaikwad,175.0
+Super Kings Vs KKR,Super Kings,2,Devon Conway,56,40,4,3,140.00,1,33,Devon Conway,140.0
+Super Kings Vs KKR,Super Kings,3,Ajinkya Rahane,71,29,6,5,244.82,0,33,Ajinkya Rahane,244.82758620689654
+Super Kings Vs KKR,Super Kings,4,Shivam Dube,50,21,2,5,238.09,1,33,Shivam Dube,238.0952380952381
+Super Kings Vs KKR,Super Kings,5,Ravindra Jadeja,18,8,0,2,225.00,1,33,Ravindra Jadeja,225.0
+Super Kings Vs KKR,Super Kings,6,MS Dhoni(c) ,2,3,0,0,66.66,0,33,MS Dhoni ,66.66666666666666
+Super Kings Vs KKR,KKR,1,Narayan Jagadeesan ,1,3,0,0,33.33,1,33,Narayan Jagadeesan ,33.33333333333333
+Super Kings Vs KKR,KKR,2,Sunil Narine,0,3,0,0,0.00,1,33,Sunil Narine,0.0
+Super Kings Vs KKR,KKR,3,Venkatesh Iyer,20,20,2,1,100.00,1,33,Venkatesh Iyer,100.0
+Super Kings Vs KKR,KKR,4,Nitish Rana(c),27,20,4,1,135.00,1,33,Nitish Rana,135.0
+Super Kings Vs KKR,KKR,5,Jason Roy,61,26,5,5,234.61,1,33,Jason Roy,234.6153846153846
+Super Kings Vs KKR,KKR,6,Rinku Singh,53,33,3,4,160.60,0,33,Rinku Singh,160.6060606060606
+Super Kings Vs KKR,KKR,7,Andre Russell,9,6,0,1,150.00,1,33,Andre Russell,150.0
+Super Kings Vs KKR,KKR,8,David Wiese,1,2,0,0,50.00,1,33,David Wiese,50.0
+Super Kings Vs KKR,KKR,9,Umesh Yadav,4,4,0,0,100.00,1,33,Umesh Yadav,100.0
+Super Kings Vs KKR,KKR,10,Varun Chakravarthy,0,3,0,0,0.00,0,33,Varun Chakravarthy,0.0
+Capitals Vs Sunrisers,Capitals,1,David Warner(c),21,20,2,1,105.00,1,34,David Warner,105.0
+Capitals Vs Sunrisers,Capitals,2,Phil Salt ,0,1,0,0,0.00,1,34,Phil Salt ,0.0
+Capitals Vs Sunrisers,Capitals,3,Mitchell Marsh,25,15,5,0,166.66,1,34,Mitchell Marsh,166.66666666666669
+Capitals Vs Sunrisers,Capitals,4,Sarfaraz Khan,10,9,0,1,111.11,1,34,Sarfaraz Khan,111.11111111111111
+Capitals Vs Sunrisers,Capitals,5,Manish Pandey,34,27,2,0,125.92,1,34,Manish Pandey,125.92592592592592
+Capitals Vs Sunrisers,Capitals,6,Aman Hakim Khan,4,2,1,0,200.00,1,34,Aman Hakim Khan,200.0
+Capitals Vs Sunrisers,Capitals,7,Axar Patel,34,34,4,0,100.00,1,34,Axar Patel,100.0
+Capitals Vs Sunrisers,Capitals,8,Ripal Patel,5,6,0,0,83.33,1,34,Ripal Patel,83.33333333333334
+Capitals Vs Sunrisers,Capitals,9,Anrich Nortje,2,2,0,0,100.00,1,34,Anrich Nortje,100.0
+Capitals Vs Sunrisers,Capitals,10,Kuldeep Yadav,4,3,1,0,133.33,0,34,Kuldeep Yadav,133.33333333333331
+Capitals Vs Sunrisers,Capitals,11,Ishant Sharma,1,1,0,0,100.00,0,34,Ishant Sharma,100.0
+Capitals Vs Sunrisers,Sunrisers,1,Harry Brook,7,14,0,0,50.00,1,34,Harry Brook,50.0
+Capitals Vs Sunrisers,Sunrisers,2,Mayank Agarwal,49,39,7,0,125.64,1,34,Mayank Agarwal,125.64102564102564
+Capitals Vs Sunrisers,Sunrisers,3,Rahul Tripathi,15,21,0,0,71.42,1,34,Rahul Tripathi,71.42857142857143
+Capitals Vs Sunrisers,Sunrisers,4,Abhishek Sharma,5,5,0,0,100.00,1,34,Abhishek Sharma,100.0
+Capitals Vs Sunrisers,Sunrisers,5,Aiden Markram(c),3,5,0,0,60.00,1,34,Aiden Markram,60.0
+Capitals Vs Sunrisers,Sunrisers,6,Heinrich Klaasen ,31,19,3,1,163.15,1,34,Heinrich Klaasen ,163.1578947368421
+Capitals Vs Sunrisers,Sunrisers,7,Washington Sundar,24,15,3,0,160.00,0,34,Washington Sundar,160.0
+Capitals Vs Sunrisers,Sunrisers,8,Marco Jansen,2,3,0,0,66.66,0,34,Marco Jansen,66.66666666666666
+Titans Vs Mumbai,Titans,1,Wriddhiman Saha ,4,7,0,0,57.14,1,35,Wriddhiman Saha ,57.14285714285714
+Titans Vs Mumbai,Titans,2,Shubman Gill,56,34,7,1,164.70,1,35,Shubman Gill,164.70588235294116
+Titans Vs Mumbai,Titans,3,Hardik Pandya(c),13,14,1,0,92.85,1,35,Hardik Pandya,92.85714285714286
+Titans Vs Mumbai,Titans,4,Vijay Shankar,19,16,1,1,118.75,1,35,Vijay Shankar,118.75
+Titans Vs Mumbai,Titans,5,David Miller,46,22,2,4,209.09,1,35,David Miller,209.0909090909091
+Titans Vs Mumbai,Titans,6,Abhinav Manohar,42,21,3,3,200.00,1,35,Abhinav Manohar,200.0
+Titans Vs Mumbai,Titans,7,Rahul Tewatia,20,5,0,3,400.00,0,35,Rahul Tewatia,400.0
+Titans Vs Mumbai,Titans,8,Rashid Khan,2,1,0,0,200.00,0,35,Rashid Khan,200.0
+Titans Vs Mumbai,Mumbai,1,Rohit Sharma(c),2,8,0,0,25.00,1,35,Rohit Sharma,25.0
+Titans Vs Mumbai,Mumbai,2,Ishan Kishan ,13,21,1,0,61.90,1,35,Ishan Kishan ,61.904761904761905
+Titans Vs Mumbai,Mumbai,3,Cameron Green,33,26,0,3,126.92,1,35,Cameron Green,126.92307692307692
+Titans Vs Mumbai,Mumbai,4,Tilak Varma,2,3,0,0,66.66,1,35,Tilak Varma,66.66666666666666
+Titans Vs Mumbai,Mumbai,5,Suryakumar Yadav,23,12,3,1,191.66,1,35,Suryakumar Yadav,191.66666666666669
+Titans Vs Mumbai,Mumbai,6,Tim David,0,2,0,0,0.00,1,35,Tim David,0.0
+Titans Vs Mumbai,Mumbai,7,Nehal Wadhera,40,21,3,3,190.47,1,35,Nehal Wadhera,190.47619047619045
+Titans Vs Mumbai,Mumbai,8,Piyush Chawla,18,12,1,1,150.00,1,35,Piyush Chawla,150.0
+Titans Vs Mumbai,Mumbai,9,Arjun Tendulkar,13,9,0,1,144.44,1,35,Arjun Tendulkar,144.44444444444443
+Titans Vs Mumbai,Mumbai,10,Jason Behrendorff,3,4,0,0,75.00,0,35,Jason Behrendorff,75.0
+Titans Vs Mumbai,Mumbai,11,Riley Meredith,0,2,0,0,0.00,0,35,Riley Meredith,0.0
+KKR Vs RCB,KKR,1,Jason Roy,56,29,4,5,193.10,1,36,Jason Roy,193.10344827586206
+KKR Vs RCB,KKR,2,Narayan Jagadeesan ,27,29,4,0,93.10,1,36,Narayan Jagadeesan ,93.10344827586206
+KKR Vs RCB,KKR,3,Venkatesh Iyer,31,26,3,0,119.23,1,36,Venkatesh Iyer,119.23076923076923
+KKR Vs RCB,KKR,4,Nitish Rana(c),48,21,3,4,228.57,1,36,Nitish Rana,228.57142857142856
+KKR Vs RCB,KKR,5,Andre Russell,1,2,0,0,50.00,1,36,Andre Russell,50.0
+KKR Vs RCB,KKR,6,Rinku Singh,18,10,2,1,180.00,0,36,Rinku Singh,180.0
+KKR Vs RCB,KKR,7,David Wiese,12,3,0,2,400.00,0,36,David Wiese,400.0
+KKR Vs RCB,RCB,1,Virat Kohli(c),54,37,6,0,145.94,1,36,Virat Kohli,145.94594594594594
+KKR Vs RCB,RCB,2,Faf du Plessis,17,7,1,2,242.85,1,36,Faf du Plessis,242.85714285714283
+KKR Vs RCB,RCB,3,Shahbaz Ahmed,2,5,0,0,40.00,1,36,Shahbaz Ahmed,40.0
+KKR Vs RCB,RCB,4,Glenn Maxwell,5,4,1,0,125.00,1,36,Glenn Maxwell,125.0
+KKR Vs RCB,RCB,5,Mahipal Lomror,34,18,1,3,188.88,1,36,Mahipal Lomror,188.88888888888889
+KKR Vs RCB,RCB,6,Dinesh Karthik ,22,18,1,1,122.22,1,36,Dinesh Karthik ,122.22222222222223
+KKR Vs RCB,RCB,7,Suyash Prabhudessai,10,9,1,0,111.11,1,36,Suyash Prabhudessai,111.11111111111111
+KKR Vs RCB,RCB,8,Wanindu Hasaranga,5,4,0,0,125.00,1,36,Wanindu Hasaranga,125.0
+KKR Vs RCB,RCB,9,David Willey,11,10,1,0,110.00,0,36,David Willey,110.00000000000001
+KKR Vs RCB,RCB,10,Vijaykumar Vyshak,13,8,0,1,162.50,0,36,Vijaykumar Vyshak,162.5
+Royals Vs Super Kings,Royals,1,Yashasvi Jaiswal,77,43,8,4,179.06,1,37,Yashasvi Jaiswal,179.06976744186048
+Royals Vs Super Kings,Royals,2,Jos Buttler,27,21,4,0,128.57,1,37,Jos Buttler,128.57142857142858
+Royals Vs Super Kings,Royals,3,Sanju Samson(c) ,17,17,1,0,100.00,1,37,Sanju Samson ,100.0
+Royals Vs Super Kings,Royals,4,Shimron Hetmyer,8,10,0,0,80.00,1,37,Shimron Hetmyer,80.0
+Royals Vs Super Kings,Royals,5,Dhruv Jurel,34,15,3,2,226.66,1,37,Dhruv Jurel,226.66666666666666
+Royals Vs Super Kings,Royals,6,Devdutt Padikkal,27,13,5,0,207.69,0,37,Devdutt Padikkal,207.6923076923077
+Royals Vs Super Kings,Royals,7,Ravichandran Ashwin,1,1,0,0,100.00,0,37,Ravichandran Ashwin,100.0
+Royals Vs Super Kings,Super Kings,1,Ruturaj Gaikwad,47,29,5,1,162.06,1,37,Ruturaj Gaikwad,162.06896551724137
+Royals Vs Super Kings,Super Kings,2,Devon Conway,8,16,1,0,50.00,1,37,Devon Conway,50.0
+Royals Vs Super Kings,Super Kings,3,Ajinkya Rahane,15,13,0,0,115.38,1,37,Ajinkya Rahane,115.38461538461537
+Royals Vs Super Kings,Super Kings,4,Shivam Dube,52,33,2,4,157.57,1,37,Shivam Dube,157.57575757575756
+Royals Vs Super Kings,Super Kings,5,Ambati Rayudu,0,2,0,0,0.00,1,37,Ambati Rayudu,0.0
+Royals Vs Super Kings,Super Kings,6,Moeen Ali,23,12,2,2,191.66,1,37,Moeen Ali,191.66666666666669
+Royals Vs Super Kings,Super Kings,7,Ravindra Jadeja,23,15,3,0,153.33,0,37,Ravindra Jadeja,153.33333333333334
+Super Giants Vs Punjab Kings,Super Giants,1,KL Rahul(c),12,9,1,1,133.33,1,38,KL Rahul,133.33333333333331
+Super Giants Vs Punjab Kings,Super Giants,2,Kyle Mayers,54,24,7,4,225.00,1,38,Kyle Mayers,225.0
+Super Giants Vs Punjab Kings,Super Giants,3,Ayush Badoni,43,24,3,3,179.16,1,38,Ayush Badoni,179.16666666666669
+Super Giants Vs Punjab Kings,Super Giants,4,Marcus Stoinis,72,40,6,5,180.00,1,38,Marcus Stoinis,180.0
+Super Giants Vs Punjab Kings,Super Giants,5,Nicholas Pooran ,45,19,7,1,236.84,1,38,Nicholas Pooran ,236.84210526315786
+Super Giants Vs Punjab Kings,Super Giants,6,Deepak Hooda,11,6,2,0,183.33,0,38,Deepak Hooda,183.33333333333331
+Super Giants Vs Punjab Kings,Super Giants,7,Krunal Pandya,5,2,1,0,250.00,0,38,Krunal Pandya,250.0
+Super Giants Vs Punjab Kings,Punjab Kings,1,Prabhsimran Singh,9,13,2,0,69.23,1,38,Prabhsimran Singh,69.23076923076923
+Super Giants Vs Punjab Kings,Punjab Kings,2,Shikhar Dhawan(c),1,2,0,0,50.00,1,38,Shikhar Dhawan,50.0
+Super Giants Vs Punjab Kings,Punjab Kings,3,Atharva Taide,66,36,8,2,183.33,1,38,Atharva Taide,183.33333333333331
+Super Giants Vs Punjab Kings,Punjab Kings,4,Sikandar Raza,36,22,4,1,163.63,1,38,Sikandar Raza,163.63636363636365
+Super Giants Vs Punjab Kings,Punjab Kings,5,Liam Livingstone,23,14,2,1,164.28,1,38,Liam Livingstone,164.28571428571428
+Super Giants Vs Punjab Kings,Punjab Kings,6,Sam Curran,21,11,2,1,190.90,1,38,Sam Curran,190.9090909090909
+Super Giants Vs Punjab Kings,Punjab Kings,7,Jitesh Sharma ,24,10,0,3,240.00,1,38,Jitesh Sharma ,240.0
+Super Giants Vs Punjab Kings,Punjab Kings,8,M Shahrukh Khan,6,9,0,0,66.66,1,38,M Shahrukh Khan,66.66666666666666
+Super Giants Vs Punjab Kings,Punjab Kings,9,Rahul Chahar,0,1,0,0,0.00,1,38,Rahul Chahar,0.0
+Super Giants Vs Punjab Kings,Punjab Kings,10,Kagiso Rabada,0,1,0,0,0.00,1,38,Kagiso Rabada,0.0
+Super Giants Vs Punjab Kings,Punjab Kings,11,Arshdeep Singh,2,2,0,0,100.00,0,38,Arshdeep Singh,100.0
+KKR Vs Titans,KKR,1,Narayan Jagadeesan ,19,15,4,0,126.66,1,39,Narayan Jagadeesan ,126.66666666666666
+KKR Vs Titans,KKR,2,Rahmanullah Gurbaz,81,39,5,7,207.69,1,39,Rahmanullah Gurbaz,207.6923076923077
+KKR Vs Titans,KKR,3,Shardul Thakur,0,4,0,0,0.00,1,39,Shardul Thakur,0.0
+KKR Vs Titans,KKR,4,Venkatesh Iyer,11,14,0,0,78.57,1,39,Venkatesh Iyer,78.57142857142857
+KKR Vs Titans,KKR,5,Nitish Rana(c),4,3,1,0,133.33,1,39,Nitish Rana,133.33333333333331
+KKR Vs Titans,KKR,6,Rinku Singh,19,20,0,1,95.00,1,39,Rinku Singh,95.0
+KKR Vs Titans,KKR,7,Andre Russell,34,19,2,3,178.94,1,39,Andre Russell,178.94736842105263
+KKR Vs Titans,KKR,8,David Wiese,8,6,0,1,133.33,0,39,David Wiese,133.33333333333331
+KKR Vs Titans,Titans,1,Wriddhiman Saha ,10,10,1,0,100.00,1,39,Wriddhiman Saha ,100.0
+KKR Vs Titans,Titans,2,Shubman Gill,49,35,8,0,140.00,1,39,Shubman Gill,140.0
+KKR Vs Titans,Titans,3,Hardik Pandya(c),26,20,2,1,130.00,1,39,Hardik Pandya,130.0
+KKR Vs Titans,Titans,4,Vijay Shankar,51,24,2,5,212.50,0,39,Vijay Shankar,212.5
+KKR Vs Titans,Titans,5,David Miller,32,18,2,2,177.77,0,39,David Miller,177.77777777777777
+Sunrisers Vs Capitals,Sunrisers,1,Abhishek Sharma,67,36,12,1,186.11,1,40,Abhishek Sharma,186.11111111111111
+Sunrisers Vs Capitals,Sunrisers,2,Mayank Agarwal,5,6,1,0,83.33,1,40,Mayank Agarwal,83.33333333333334
+Sunrisers Vs Capitals,Sunrisers,3,Rahul Tripathi,10,6,0,1,166.66,1,40,Rahul Tripathi,166.66666666666669
+Sunrisers Vs Capitals,Sunrisers,4,Aiden Markram(c),8,13,0,0,61.53,1,40,Aiden Markram,61.53846153846154
+Sunrisers Vs Capitals,Sunrisers,5,Harry Brook,0,2,0,0,0.00,1,40,Harry Brook,0.0
+Sunrisers Vs Capitals,Sunrisers,6,Heinrich Klaasen ,53,27,2,4,196.29,0,40,Heinrich Klaasen ,196.2962962962963
+Sunrisers Vs Capitals,Sunrisers,7,Abdul Samad,28,21,1,2,133.33,1,40,Abdul Samad,133.33333333333331
+Sunrisers Vs Capitals,Sunrisers,8,Akeal Hosein,16,10,1,1,160.00,0,40,Akeal Hosein,160.0
+Sunrisers Vs Capitals,Capitals,1,David Warner(c),0,2,0,0,0.00,1,40,David Warner,0.0
+Sunrisers Vs Capitals,Capitals,2,Phil Salt ,59,35,9,0,168.57,1,40,Phil Salt ,168.57142857142858
+Sunrisers Vs Capitals,Capitals,3,Mitchell Marsh,63,39,1,6,161.53,1,40,Mitchell Marsh,161.53846153846155
+Sunrisers Vs Capitals,Capitals,4,Manish Pandey,1,3,0,0,33.33,1,40,Manish Pandey,33.33333333333333
+Sunrisers Vs Capitals,Capitals,5,Priyam Garg,12,9,1,0,133.33,1,40,Priyam Garg,133.33333333333331
+Sunrisers Vs Capitals,Capitals,6,Sarfaraz Khan,9,10,1,0,90.00,1,40,Sarfaraz Khan,90.0
+Sunrisers Vs Capitals,Capitals,7,Axar Patel,29,14,1,2,207.14,0,40,Axar Patel,207.14285714285717
+Sunrisers Vs Capitals,Capitals,8,Ripal Patel,11,8,1,0,137.50,0,40,Ripal Patel,137.5
+Super Kings Vs Punjab Kings,Super Kings,1,Ruturaj Gaikwad,37,31,4,1,119.35,1,41,Ruturaj Gaikwad,119.35483870967742
+Super Kings Vs Punjab Kings,Super Kings,2,Devon Conway,92,52,16,1,176.92,0,41,Devon Conway,176.9230769230769
+Super Kings Vs Punjab Kings,Super Kings,3,Shivam Dube,28,17,1,2,164.70,1,41,Shivam Dube,164.70588235294116
+Super Kings Vs Punjab Kings,Super Kings,4,Moeen Ali,10,6,2,0,166.66,1,41,Moeen Ali,166.66666666666669
+Super Kings Vs Punjab Kings,Super Kings,5,Ravindra Jadeja,12,10,0,0,120.00,1,41,Ravindra Jadeja,120.0
+Super Kings Vs Punjab Kings,Super Kings,6,MS Dhoni(c) ,13,4,0,2,325.00,0,41,MS Dhoni ,325.0
+Super Kings Vs Punjab Kings,Punjab Kings,1,Prabhsimran Singh,42,24,4,2,175.00,1,41,Prabhsimran Singh,175.0
+Super Kings Vs Punjab Kings,Punjab Kings,2,Shikhar Dhawan(c),28,15,4,1,186.66,1,41,Shikhar Dhawan,186.66666666666666
+Super Kings Vs Punjab Kings,Punjab Kings,3,Atharva Taide,13,17,0,0,76.47,1,41,Atharva Taide,76.47058823529412
+Super Kings Vs Punjab Kings,Punjab Kings,4,Liam Livingstone,40,24,1,4,166.66,1,41,Liam Livingstone,166.66666666666669
+Super Kings Vs Punjab Kings,Punjab Kings,5,Sam Curran,29,20,1,1,145.00,1,41,Sam Curran,145.0
+Super Kings Vs Punjab Kings,Punjab Kings,6,Jitesh Sharma ,21,10,2,1,210.00,1,41,Jitesh Sharma ,210.0
+Super Kings Vs Punjab Kings,Punjab Kings,7,M Shahrukh Khan,2,3,0,0,66.66,0,41,M Shahrukh Khan,66.66666666666666
+Super Kings Vs Punjab Kings,Punjab Kings,8,Sikandar Raza,13,7,1,0,185.71,0,41,Sikandar Raza,185.71428571428572
+Royals Vs Mumbai,Royals,1,Yashasvi Jaiswal,124,62,16,8,200.00,1,42,Yashasvi Jaiswal,200.0
+Royals Vs Mumbai,Royals,2,Jos Buttler,18,19,2,1,94.73,1,42,Jos Buttler,94.73684210526315
+Royals Vs Mumbai,Royals,3,Sanju Samson(c) ,14,10,1,1,140.00,1,42,Sanju Samson ,140.0
+Royals Vs Mumbai,Royals,4,Devdutt Padikkal,2,4,0,0,50.00,1,42,Devdutt Padikkal,50.0
+Royals Vs Mumbai,Royals,5,Jason Holder,11,9,0,1,122.22,1,42,Jason Holder,122.22222222222223
+Royals Vs Mumbai,Royals,6,Shimron Hetmyer,8,9,0,1,88.88,1,42,Shimron Hetmyer,88.88888888888889
+Royals Vs Mumbai,Royals,7,Dhruv Jurel,2,3,0,0,66.66,1,42,Dhruv Jurel,66.66666666666666
+Royals Vs Mumbai,Royals,8,Ravichandran Ashwin,8,5,1,0,160.00,0,42,Ravichandran Ashwin,160.0
+Royals Vs Mumbai,Royals,9,Trent Boult,0,0,0,0,-,0,42,Trent Boult,0.0
+Royals Vs Mumbai,Mumbai,1,Rohit Sharma(c),3,5,0,0,60.00,1,42,Rohit Sharma,60.0
+Royals Vs Mumbai,Mumbai,2,Ishan Kishan ,28,23,4,0,121.73,1,42,Ishan Kishan ,121.73913043478262
+Royals Vs Mumbai,Mumbai,3,Cameron Green,44,26,4,2,169.23,1,42,Cameron Green,169.23076923076923
+Royals Vs Mumbai,Mumbai,4,Suryakumar Yadav,55,29,8,2,189.65,1,42,Suryakumar Yadav,189.6551724137931
+Royals Vs Mumbai,Mumbai,5,Tilak Varma,29,21,3,1,138.09,0,42,Tilak Varma,138.0952380952381
+Royals Vs Mumbai,Mumbai,6,Tim David,45,14,2,5,321.42,0,42,Tim David,321.42857142857144
+RCB Vs Super Giants,RCB,1,Virat Kohli,31,30,3,0,103.33,1,43,Virat Kohli,103.33333333333334
+RCB Vs Super Giants,RCB,2,Faf du Plessis(c),44,40,1,1,110.00,1,43,Faf du Plessis,110.00000000000001
+RCB Vs Super Giants,RCB,3,Anuj Rawat,9,11,0,0,81.81,1,43,Anuj Rawat,81.81818181818183
+RCB Vs Super Giants,RCB,4,Glenn Maxwell,4,5,0,0,80.00,1,43,Glenn Maxwell,80.0
+RCB Vs Super Giants,RCB,5,Suyash Prabhudessai,6,7,0,0,85.71,1,43,Suyash Prabhudessai,85.71428571428571
+RCB Vs Super Giants,RCB,6,Dinesh Karthik ,16,11,1,1,145.45,1,43,Dinesh Karthik ,145.45454545454547
+RCB Vs Super Giants,RCB,7,Mahipal Lomror,3,4,0,0,75.00,1,43,Mahipal Lomror,75.0
+RCB Vs Super Giants,RCB,8,Wanindu Hasaranga,8,7,1,0,114.28,0,43,Wanindu Hasaranga,114.28571428571428
+RCB Vs Super Giants,RCB,9,Karn Sharma,2,2,0,0,100.00,1,43,Karn Sharma,100.0
+RCB Vs Super Giants,RCB,10,Mohammed Siraj,0,1,0,0,0.00,1,43,Mohammed Siraj,0.0
+RCB Vs Super Giants,RCB,11,Josh Hazlewood,1,2,0,0,50.00,0,43,Josh Hazlewood,50.0
+RCB Vs Super Giants,Super Giants,1,Kyle Mayers,0,2,0,0,0.00,1,43,Kyle Mayers,0.0
+RCB Vs Super Giants,Super Giants,2,Ayush Badoni,4,11,0,0,36.36,1,43,Ayush Badoni,36.36363636363637
+RCB Vs Super Giants,Super Giants,3,Krunal Pandya,14,11,3,0,127.27,1,43,Krunal Pandya,127.27272727272727
+RCB Vs Super Giants,Super Giants,4,Deepak Hooda,1,2,0,0,50.00,1,43,Deepak Hooda,50.0
+RCB Vs Super Giants,Super Giants,5,Marcus Stoinis,13,19,0,1,68.42,1,43,Marcus Stoinis,68.42105263157895
+RCB Vs Super Giants,Super Giants,6,Nicholas Pooran ,9,7,0,1,128.57,1,43,Nicholas Pooran ,128.57142857142858
+RCB Vs Super Giants,Super Giants,7,Krishnappa Gowtham,23,13,1,2,176.92,1,43,Krishnappa Gowtham,176.9230769230769
+RCB Vs Super Giants,Super Giants,8,Ravi Bishnoi,5,10,0,0,50.00,1,43,Ravi Bishnoi,50.0
+RCB Vs Super Giants,Super Giants,9,Amit Mishra,19,30,2,0,63.33,1,43,Amit Mishra,63.33333333333333
+RCB Vs Super Giants,Super Giants,10,Naveen-ul-Haq,13,13,2,0,100.00,1,43,Naveen-ul-Haq,100.0
+RCB Vs Super Giants,Super Giants,11,KL Rahul(c),0,3,0,0,0.00,0,43,KL Rahul,0.0
+Capitals Vs Titans,Capitals,1,Phil Salt ,0,1,0,0,0.00,1,44,Phil Salt ,0.0
+Capitals Vs Titans,Capitals,2,David Warner(c),2,2,0,0,100.00,1,44,David Warner,100.0
+Capitals Vs Titans,Capitals,3,Priyam Garg,10,14,0,0,71.42,1,44,Priyam Garg,71.42857142857143
+Capitals Vs Titans,Capitals,4,Rilee Rossouw,8,6,2,0,133.33,1,44,Rilee Rossouw,133.33333333333331
+Capitals Vs Titans,Capitals,5,Manish Pandey,1,4,0,0,25.00,1,44,Manish Pandey,25.0
+Capitals Vs Titans,Capitals,6,Axar Patel,27,30,2,1,90.00,1,44,Axar Patel,90.0
+Capitals Vs Titans,Capitals,7,Aman Hakim Khan,51,44,3,3,115.90,1,44,Aman Hakim Khan,115.90909090909092
+Capitals Vs Titans,Capitals,8,Ripal Patel,23,13,2,1,176.92,1,44,Ripal Patel,176.9230769230769
+Capitals Vs Titans,Capitals,9,Anrich Nortje,3,6,0,0,50.00,0,44,Anrich Nortje,50.0
+Capitals Vs Titans,Capitals,10,Kuldeep Yadav,0,1,0,0,0.00,0,44,Kuldeep Yadav,0.0
+Capitals Vs Titans,Titans,1,Wriddhiman Saha ,0,6,0,0,0.00,1,44,Wriddhiman Saha ,0.0
+Capitals Vs Titans,Titans,2,Shubman Gill,6,7,1,0,85.71,1,44,Shubman Gill,85.71428571428571
+Capitals Vs Titans,Titans,3,Hardik Pandya(c),59,53,7,0,111.32,0,44,Hardik Pandya,111.32075471698113
+Capitals Vs Titans,Titans,4,Vijay Shankar,6,9,1,0,66.66,1,44,Vijay Shankar,66.66666666666666
+Capitals Vs Titans,Titans,5,David Miller,0,3,0,0,0.00,1,44,David Miller,0.0
+Capitals Vs Titans,Titans,6,Abhinav Manohar,26,33,0,1,78.78,1,44,Abhinav Manohar,78.78787878787878
+Capitals Vs Titans,Titans,7,Rahul Tewatia,20,7,0,3,285.71,1,44,Rahul Tewatia,285.7142857142857
+Capitals Vs Titans,Titans,8,Rashid Khan,3,2,0,0,150.00,0,44,Rashid Khan,150.0
+Super Giants Vs ,Super Giants,1,Manan Vohra,10,11,1,0,90.90,1,45,Manan Vohra,90.9090909090909
+Super Giants Vs ,Super Giants,2,Kyle Mayers,14,17,2,0,82.35,1,45,Kyle Mayers,82.35294117647058
+Super Giants Vs ,Super Giants,3,Karan Sharma,9,16,0,0,56.25,1,45,Karan Sharma,56.25
+Super Giants Vs ,Super Giants,4,Krunal Pandya(c),0,1,0,0,0.00,1,45,Krunal Pandya,0.0
+Super Giants Vs ,Super Giants,5,Marcus Stoinis,6,4,1,0,150.00,1,45,Marcus Stoinis,150.0
+Super Giants Vs ,Super Giants,6,Nicholas Pooran ,20,31,0,0,64.51,1,45,Nicholas Pooran ,64.51612903225806
+Super Giants Vs ,Super Giants,7,Ayush Badoni,59,33,2,4,178.78,0,45,Ayush Badoni,178.78787878787878
+Super Giants Vs ,Super Giants,8,Krishnappa Gowtham,1,3,0,0,33.33,1,45,Krishnappa Gowtham,33.33333333333333
+Punjab Kings Vs Mumbai,Punjab Kings,1,Prabhsimran Singh,9,7,1,0,128.57,1,46,Prabhsimran Singh,128.57142857142858
+Punjab Kings Vs Mumbai,Punjab Kings,2,Shikhar Dhawan(c),30,20,5,0,150.00,1,46,Shikhar Dhawan,150.0
+Punjab Kings Vs Mumbai,Punjab Kings,3,Matthew Short,27,26,2,1,103.84,1,46,Matthew Short,103.84615384615385
+Punjab Kings Vs Mumbai,Punjab Kings,4,Liam Livingstone,82,42,7,4,195.23,0,46,Liam Livingstone,195.23809523809524
+Punjab Kings Vs Mumbai,Punjab Kings,5,Jitesh Sharma ,49,27,5,2,181.48,0,46,Jitesh Sharma ,181.4814814814815
+Punjab Kings Vs Mumbai,Mumbai,1,Rohit Sharma(c),0,3,0,0,0.00,1,46,Rohit Sharma,0.0
+Punjab Kings Vs Mumbai,Mumbai,2,Ishan Kishan ,75,41,7,4,182.92,1,46,Ishan Kishan ,182.9268292682927
+Punjab Kings Vs Mumbai,Mumbai,3,Cameron Green,23,18,4,0,127.77,1,46,Cameron Green,127.77777777777777
+Punjab Kings Vs Mumbai,Mumbai,4,Suryakumar Yadav,66,31,8,2,212.90,1,46,Suryakumar Yadav,212.9032258064516
+Punjab Kings Vs Mumbai,Mumbai,5,Tim David,19,10,3,0,190.00,0,46,Tim David,190.0
+Punjab Kings Vs Mumbai,Mumbai,6,Tilak Varma,26,10,1,3,260.00,0,46,Tilak Varma,260.0
+KKR Vs Sunrisers,KKR,1,Jason Roy,20,19,4,0,105.26,1,47,Jason Roy,105.26315789473684
+KKR Vs Sunrisers,KKR,2,Rahmanullah Gurbaz ,0,1,0,0,0.00,1,47,Rahmanullah Gurbaz ,0.0
+KKR Vs Sunrisers,KKR,3,Venkatesh Iyer,7,4,1,0,175.00,1,47,Venkatesh Iyer,175.0
+KKR Vs Sunrisers,KKR,4,Nitish Rana(c),42,31,3,3,135.48,1,47,Nitish Rana,135.48387096774192
+KKR Vs Sunrisers,KKR,5,Rinku Singh,46,35,4,1,131.42,1,47,Rinku Singh,131.42857142857142
+KKR Vs Sunrisers,KKR,6,Andre Russell,24,15,1,2,160.00,1,47,Andre Russell,160.0
+KKR Vs Sunrisers,KKR,7,Sunil Narine,1,2,0,0,50.00,1,47,Sunil Narine,50.0
+KKR Vs Sunrisers,KKR,8,Shardul Thakur,8,6,1,0,133.33,1,47,Shardul Thakur,133.33333333333331
+KKR Vs Sunrisers,KKR,9,Anukul Roy,13,7,2,0,185.71,0,47,Anukul Roy,185.71428571428572
+KKR Vs Sunrisers,KKR,10,Harshit Rana,0,1,0,0,0.00,1,47,Harshit Rana,0.0
+KKR Vs Sunrisers,KKR,11,Vaibhav Arora,2,1,0,0,200.00,0,47,Vaibhav Arora,200.0
+KKR Vs Sunrisers,Sunrisers,1,Abhishek Sharma,9,10,1,0,90.00,1,47,Abhishek Sharma,90.0
+KKR Vs Sunrisers,Sunrisers,2,Mayank Agarwal,18,11,2,1,163.63,1,47,Mayank Agarwal,163.63636363636365
+KKR Vs Sunrisers,Sunrisers,3,Rahul Tripathi,20,9,3,1,222.22,1,47,Rahul Tripathi,222.22222222222223
+KKR Vs Sunrisers,Sunrisers,4,Aiden Markram(c),41,40,4,0,102.50,1,47,Aiden Markram,102.49999999999999
+KKR Vs Sunrisers,Sunrisers,5,Harry Brook,0,4,0,0,0.00,1,47,Harry Brook,0.0
+KKR Vs Sunrisers,Sunrisers,6,Heinrich Klaasen ,36,20,1,3,180.00,1,47,Heinrich Klaasen ,180.0
+KKR Vs Sunrisers,Sunrisers,7,Abdul Samad,21,18,3,0,116.66,1,47,Abdul Samad,116.66666666666667
+KKR Vs Sunrisers,Sunrisers,8,Marco Jansen,1,4,0,0,25.00,1,47,Marco Jansen,25.0
+KKR Vs Sunrisers,Sunrisers,9,Bhuvneshwar Kumar,5,5,1,0,100.00,0,47,Bhuvneshwar Kumar,100.0
+KKR Vs Sunrisers,Sunrisers,10,Mayank Markande,1,2,0,0,50.00,0,47,Mayank Markande,50.0
+Royals Vs Titans,Royals,1,Yashasvi Jaiswal,14,11,1,1,127.27,1,48,Yashasvi Jaiswal,127.27272727272727
+Royals Vs Titans,Royals,2,Jos Buttler,8,6,2,0,133.33,1,48,Jos Buttler,133.33333333333331
+Royals Vs Titans,Royals,3,Sanju Samson(c) ,30,20,3,1,150.00,1,48,Sanju Samson ,150.0
+Royals Vs Titans,Royals,4,Devdutt Padikkal,12,12,1,0,100.00,1,48,Devdutt Padikkal,100.0
+Royals Vs Titans,Royals,5,Ravichandran Ashwin,2,6,0,0,33.33,1,48,Ravichandran Ashwin,33.33333333333333
+Royals Vs Titans,Royals,6,Riyan Parag,4,6,0,0,66.66,1,48,Riyan Parag,66.66666666666666
+Royals Vs Titans,Royals,7,Shimron Hetmyer,7,13,0,0,53.84,1,48,Shimron Hetmyer,53.84615384615385
+Royals Vs Titans,Royals,8,Dhruv Jurel,9,8,1,0,112.50,1,48,Dhruv Jurel,112.5
+Royals Vs Titans,Royals,9,Trent Boult,15,11,1,1,136.36,1,48,Trent Boult,136.36363636363635
+Royals Vs Titans,Royals,10,Adam Zampa,7,9,0,0,77.77,1,48,Adam Zampa,77.77777777777779
+Royals Vs Titans,Royals,11,Sandeep Sharma,2,5,0,0,40.00,0,48,Sandeep Sharma,40.0
+Royals Vs Titans,Titans,1,Wriddhiman Saha ,41,34,5,0,120.58,0,48,Wriddhiman Saha ,120.58823529411764
+Royals Vs Titans,Titans,2,Shubman Gill,36,35,6,0,102.85,1,48,Shubman Gill,102.85714285714285
+Royals Vs Titans,Titans,3,Hardik Pandya(c),39,15,3,3,260.00,0,48,Hardik Pandya,260.0
+Mumbai Vs Super Kings,Mumbai,1,Cameron Green,6,4,1,0,150.00,1,49,Cameron Green,150.0
+Mumbai Vs Super Kings,Mumbai,2,Ishan Kishan ,7,9,1,0,77.77,1,49,Ishan Kishan ,77.77777777777779
+Mumbai Vs Super Kings,Mumbai,3,Rohit Sharma(c),0,3,0,0,0.00,1,49,Rohit Sharma,0.0
+Mumbai Vs Super Kings,Mumbai,4,Nehal Wadhera,64,51,8,1,125.49,1,49,Nehal Wadhera,125.49019607843137
+Mumbai Vs Super Kings,Mumbai,5,Suryakumar Yadav,26,22,3,0,118.18,1,49,Suryakumar Yadav,118.18181818181819
+Mumbai Vs Super Kings,Mumbai,6,Tristan Stubbs,20,21,2,0,95.23,1,49,Tristan Stubbs,95.23809523809523
+Mumbai Vs Super Kings,Mumbai,7,Tim David,2,4,0,0,50.00,1,49,Tim David,50.0
+Mumbai Vs Super Kings,Mumbai,8,Arshad Khan,1,2,0,0,50.00,1,49,Arshad Khan,50.0
+Mumbai Vs Super Kings,Mumbai,9,Jofra Archer,3,2,0,0,150.00,0,49,Jofra Archer,150.0
+Mumbai Vs Super Kings,Mumbai,10,Piyush Chawla,2,2,0,0,100.00,0,49,Piyush Chawla,100.0
+Mumbai Vs Super Kings,Super Kings,1,Ruturaj Gaikwad,30,16,4,2,187.50,1,49,Ruturaj Gaikwad,187.5
+Mumbai Vs Super Kings,Super Kings,2,Devon Conway,44,42,4,0,104.76,1,49,Devon Conway,104.76190476190477
+Mumbai Vs Super Kings,Super Kings,3,Ajinkya Rahane,21,17,1,1,123.52,1,49,Ajinkya Rahane,123.52941176470588
+Mumbai Vs Super Kings,Super Kings,4,Ambati Rayudu,12,11,0,1,109.09,1,49,Ambati Rayudu,109.09090909090908
+Mumbai Vs Super Kings,Super Kings,5,Shivam Dube,26,18,0,3,144.44,0,49,Shivam Dube,144.44444444444443
+Mumbai Vs Super Kings,Super Kings,6,MS Dhoni(c) ,2,3,0,0,66.66,0,49,MS Dhoni ,66.66666666666666
+RCB Vs Capitals,RCB,1,Virat Kohli,55,46,5,0,119.56,1,50,Virat Kohli,119.56521739130434
+RCB Vs Capitals,RCB,2,Faf du Plessis(c),45,32,5,1,140.62,1,50,Faf du Plessis,140.625
+RCB Vs Capitals,RCB,3,Glenn Maxwell,0,1,0,0,0.00,1,50,Glenn Maxwell,0.0
+RCB Vs Capitals,RCB,4,Mahipal Lomror,54,29,6,3,186.20,0,50,Mahipal Lomror,186.20689655172413
+RCB Vs Capitals,RCB,5,Dinesh Karthik ,11,9,0,1,122.22,1,50,Dinesh Karthik ,122.22222222222223
+RCB Vs Capitals,RCB,6,Anuj Rawat,8,3,0,1,266.66,0,50,Anuj Rawat,266.66666666666663
+RCB Vs Capitals,Capitals,1,David Warner(c),22,14,3,1,157.14,1,50,David Warner,157.14285714285714
+RCB Vs Capitals,Capitals,2,Phil Salt ,87,45,8,6,193.33,1,50,Phil Salt ,193.33333333333334
+RCB Vs Capitals,Capitals,3,Mitchell Marsh,26,17,3,1,152.94,1,50,Mitchell Marsh,152.94117647058823
+RCB Vs Capitals,Capitals,4,Rilee Rossouw,35,22,1,3,159.09,0,50,Rilee Rossouw,159.0909090909091
+RCB Vs Capitals,Capitals,5,Axar Patel,8,3,0,1,266.66,0,50,Axar Patel,266.66666666666663
+Titans Vs Super Giants,Titans,1,Wriddhiman Saha ,81,43,10,4,188.37,1,51,Wriddhiman Saha ,188.37209302325581
+Titans Vs Super Giants,Titans,2,Shubman Gill,94,51,2,7,184.31,0,51,Shubman Gill,184.31372549019608
+Titans Vs Super Giants,Titans,3,Hardik Pandya(c),25,15,1,2,166.66,1,51,Hardik Pandya,166.66666666666669
+Titans Vs Super Giants,Titans,4,David Miller,21,12,2,1,175.00,0,51,David Miller,175.0
+Titans Vs Super Giants,Super Giants,1,Kyle Mayers,48,32,7,2,150.00,1,51,Kyle Mayers,150.0
+Titans Vs Super Giants,Super Giants,2,Quinton de Kock ,70,41,7,3,170.73,1,51,Quinton de Kock ,170.73170731707316
+Titans Vs Super Giants,Super Giants,3,Deepak Hooda,11,11,0,0,100.00,1,51,Deepak Hooda,100.0
+Titans Vs Super Giants,Super Giants,4,Marcus Stoinis,4,9,0,0,44.44,1,51,Marcus Stoinis,44.44444444444444
+Titans Vs Super Giants,Super Giants,5,Nicholas Pooran,3,6,0,0,50.00,1,51,Nicholas Pooran,50.0
+Titans Vs Super Giants,Super Giants,6,Ayush Badoni,21,11,1,2,190.90,1,51,Ayush Badoni,190.9090909090909
+Titans Vs Super Giants,Super Giants,7,Swapnil Singh,2,4,0,0,50.00,0,51,Swapnil Singh,50.0
+Titans Vs Super Giants,Super Giants,8,Krunal Pandya(c),0,1,0,0,0.00,1,51,Krunal Pandya,0.0
+Titans Vs Super Giants,Super Giants,9,Ravi Bishnoi,4,5,1,0,80.00,0,51,Ravi Bishnoi,80.0
+Royals Vs Sunrisers,Royals,1,Yashasvi Jaiswal,35,18,5,2,194.44,1,52,Yashasvi Jaiswal,194.44444444444443
+Royals Vs Sunrisers,Royals,2,Jos Buttler,95,59,10,4,161.01,1,52,Jos Buttler,161.01694915254237
+Royals Vs Sunrisers,Royals,3,Sanju Samson(c) ,66,38,4,5,173.68,0,52,Sanju Samson ,173.6842105263158
+Royals Vs Sunrisers,Royals,4,Shimron Hetmyer,7,5,0,0,140.00,0,52,Shimron Hetmyer,140.0
+Royals Vs Sunrisers,Sunrisers,1,Anmolpreet Singh,33,25,4,1,132.00,1,52,Anmolpreet Singh,132.0
+Royals Vs Sunrisers,Sunrisers,2,Abhishek Sharma,55,34,5,2,161.76,1,52,Abhishek Sharma,161.76470588235296
+Royals Vs Sunrisers,Sunrisers,3,Rahul Tripathi,47,29,2,3,162.06,1,52,Rahul Tripathi,162.06896551724137
+Royals Vs Sunrisers,Sunrisers,4,Heinrich Klaasen ,26,12,2,2,216.66,1,52,Heinrich Klaasen ,216.66666666666666
+Royals Vs Sunrisers,Sunrisers,5,Aiden Markram(c),6,5,1,0,120.00,1,52,Aiden Markram,120.0
+Royals Vs Sunrisers,Sunrisers,6,Glenn Phillips,25,7,1,3,357.14,1,52,Glenn Phillips,357.14285714285717
+Royals Vs Sunrisers,Sunrisers,7,Abdul Samad,17,7,0,2,242.85,0,52,Abdul Samad,242.85714285714283
+Royals Vs Sunrisers,Sunrisers,8,Marco Jansen,3,2,0,0,150.00,0,52,Marco Jansen,150.0
+Punjab Kings Vs KKR,Punjab Kings,1,Prabhsimran Singh,12,8,3,0,150.00,1,53,Prabhsimran Singh,150.0
+Punjab Kings Vs KKR,Punjab Kings,2,Shikhar Dhawan(c),57,47,9,1,121.27,1,53,Shikhar Dhawan,121.27659574468086
+Punjab Kings Vs KKR,Punjab Kings,3,Bhanuka Rajapaksa,0,3,0,0,0.00,1,53,Bhanuka Rajapaksa,0.0
+Punjab Kings Vs KKR,Punjab Kings,4,Liam Livingstone,15,9,3,0,166.66,1,53,Liam Livingstone,166.66666666666669
+Punjab Kings Vs KKR,Punjab Kings,5,Jitesh Sharma ,21,18,0,2,116.66,1,53,Jitesh Sharma ,116.66666666666667
+Punjab Kings Vs KKR,Punjab Kings,6,Sam Curran,4,9,0,0,44.44,1,53,Sam Curran,44.44444444444444
+Punjab Kings Vs KKR,Punjab Kings,7,Rishi Dhawan,19,11,1,1,172.72,1,53,Rishi Dhawan,172.72727272727272
+Punjab Kings Vs KKR,Punjab Kings,8,M Shahrukh Khan,21,8,3,1,262.50,0,53,M Shahrukh Khan,262.5
+Punjab Kings Vs KKR,Punjab Kings,9,Harpreet Brar,17,9,2,1,188.88,0,53,Harpreet Brar,188.88888888888889
+Punjab Kings Vs KKR,KKR,1,Jason Roy,38,24,8,0,158.33,1,53,Jason Roy,158.33333333333331
+Punjab Kings Vs KKR,KKR,2,Rahmanullah Gurbaz ,15,12,1,1,125.00,1,53,Rahmanullah Gurbaz ,125.0
+Punjab Kings Vs KKR,KKR,3,Nitish Rana(c),51,38,6,1,134.21,1,53,Nitish Rana,134.21052631578948
+Punjab Kings Vs KKR,KKR,4,Venkatesh Iyer,11,13,0,0,84.61,1,53,Venkatesh Iyer,84.61538461538461
+Punjab Kings Vs KKR,KKR,5,Andre Russell,42,23,3,3,182.60,1,53,Andre Russell,182.6086956521739
+Punjab Kings Vs KKR,KKR,6,Rinku Singh,21,10,2,1,210.00,0,53,Rinku Singh,210.0
+Punjab Kings Vs KKR,KKR,7,Shardul Thakur,0,0,0,0,-,0,53,Shardul Thakur,0.0
+RCB Vs Mumbai,RCB,1,Virat Kohli,1,4,0,0,25.00,1,54,Virat Kohli,25.0
+RCB Vs Mumbai,RCB,2,Faf du Plessis(c),65,41,5,3,158.53,1,54,Faf du Plessis,158.53658536585365
+RCB Vs Mumbai,RCB,3,Anuj Rawat,6,4,1,0,150.00,1,54,Anuj Rawat,150.0
+RCB Vs Mumbai,RCB,4,Glenn Maxwell,68,33,8,4,206.06,1,54,Glenn Maxwell,206.06060606060606
+RCB Vs Mumbai,RCB,5,Mahipal Lomror,1,3,0,0,33.33,1,54,Mahipal Lomror,33.33333333333333
+RCB Vs Mumbai,RCB,6,Dinesh Karthik ,30,18,4,1,166.66,1,54,Dinesh Karthik ,166.66666666666669
+RCB Vs Mumbai,RCB,7,Kedar Jadhav,12,10,1,0,120.00,0,54,Kedar Jadhav,120.0
+RCB Vs Mumbai,RCB,8,Wanindu Hasaranga,12,8,2,0,150.00,0,54,Wanindu Hasaranga,150.0
+RCB Vs Mumbai,Mumbai,1,Ishan Kishan ,42,21,4,4,200.00,1,54,Ishan Kishan ,200.0
+RCB Vs Mumbai,Mumbai,2,Rohit Sharma(c),7,8,1,0,87.50,1,54,Rohit Sharma,87.5
+RCB Vs Mumbai,Mumbai,3,Suryakumar Yadav,83,35,7,6,237.14,1,54,Suryakumar Yadav,237.14285714285714
+RCB Vs Mumbai,Mumbai,4,Nehal Wadhera,52,34,4,3,152.94,0,54,Nehal Wadhera,152.94117647058823
+RCB Vs Mumbai,Mumbai,5,Tim David,0,1,0,0,0.00,1,54,Tim David,0.0
+RCB Vs Mumbai,Mumbai,6,Cameron Green,2,2,0,0,100.00,0,54,Cameron Green,100.0
+Super Kings Vs Capitals,Super Kings,1,Ruturaj Gaikwad,24,18,4,0,133.33,1,55,Ruturaj Gaikwad,133.33333333333331
+Super Kings Vs Capitals,Super Kings,2,Devon Conway,10,13,1,0,76.92,1,55,Devon Conway,76.92307692307693
+Super Kings Vs Capitals,Super Kings,3,Ajinkya Rahane,21,20,2,0,105.00,1,55,Ajinkya Rahane,105.0
+Super Kings Vs Capitals,Super Kings,4,Moeen Ali,7,12,0,0,58.33,1,55,Moeen Ali,58.333333333333336
+Super Kings Vs Capitals,Super Kings,5,Shivam Dube,25,12,0,3,208.33,1,55,Shivam Dube,208.33333333333334
+Super Kings Vs Capitals,Super Kings,6,Ambati Rayudu,23,17,1,1,135.29,1,55,Ambati Rayudu,135.29411764705884
+Super Kings Vs Capitals,Super Kings,7,Ravindra Jadeja,21,16,1,1,131.25,1,55,Ravindra Jadeja,131.25
+Super Kings Vs Capitals,Super Kings,8,MS Dhoni(c) ,20,9,1,2,222.22,1,55,MS Dhoni ,222.22222222222223
+Super Kings Vs Capitals,Super Kings,9,Deepak Chahar,1,2,0,0,50.00,0,55,Deepak Chahar,50.0
+Super Kings Vs Capitals,Super Kings,10,Tushar Deshpande,0,1,0,0,0.00,0,55,Tushar Deshpande,0.0
+Super Kings Vs Capitals,Capitals,1,David Warner(c),0,2,0,0,0.00,1,55,David Warner,0.0
+Super Kings Vs Capitals,Capitals,2,Phil Salt ,17,11,1,2,154.54,1,55,Phil Salt ,154.54545454545453
+Super Kings Vs Capitals,Capitals,3,Mitchell Marsh,5,4,1,0,125.00,1,55,Mitchell Marsh,125.0
+Super Kings Vs Capitals,Capitals,4,Manish Pandey,27,29,1,2,93.10,1,55,Manish Pandey,93.10344827586206
+Super Kings Vs Capitals,Capitals,5,Rilee Rossouw,35,37,2,1,94.59,1,55,Rilee Rossouw,94.5945945945946
+Super Kings Vs Capitals,Capitals,6,Ripal Patel,10,16,0,0,62.50,1,55,Ripal Patel,62.5
+Super Kings Vs Capitals,Capitals,7,Axar Patel,21,12,2,1,175.00,1,55,Axar Patel,175.0
+Super Kings Vs Capitals,Capitals,8,Aman Hakim Khan,2,3,0,0,66.66,0,55,Aman Hakim Khan,66.66666666666666
+Super Kings Vs Capitals,Capitals,9,Lalit Yadav,12,5,3,0,240.00,1,55,Lalit Yadav,240.0
+Super Kings Vs Capitals,Capitals,10,Kuldeep Yadav,0,1,0,0,0.00,0,55,Kuldeep Yadav,0.0
+KKR Vs Royals,KKR,1,Jason Roy,10,8,2,0,125.00,1,56,Jason Roy,125.0
+KKR Vs Royals,KKR,2,Rahmanullah Gurbaz ,18,12,1,2,150.00,1,56,Rahmanullah Gurbaz ,150.0
+KKR Vs Royals,KKR,3,Venkatesh Iyer,57,42,2,4,135.71,1,56,Venkatesh Iyer,135.71428571428572
+KKR Vs Royals,KKR,4,Nitish Rana(c),22,17,2,0,129.41,1,56,Nitish Rana,129.41176470588235
+KKR Vs Royals,KKR,5,Andre Russell,10,10,0,1,100.00,1,56,Andre Russell,100.0
+KKR Vs Royals,KKR,6,Rinku Singh,16,18,0,1,88.88,1,56,Rinku Singh,88.88888888888889
+KKR Vs Royals,KKR,7,Shardul Thakur,1,2,0,0,50.00,1,56,Shardul Thakur,50.0
+KKR Vs Royals,KKR,8,Anukul Roy,6,6,0,0,100.00,0,56,Anukul Roy,100.0
+KKR Vs Royals,KKR,9,Sunil Narine,6,5,1,0,120.00,1,56,Sunil Narine,120.0
+KKR Vs Royals,Royals,1,Yashasvi Jaiswal,98,47,12,5,208.51,0,56,Yashasvi Jaiswal,208.51063829787236
+KKR Vs Royals,Royals,2,Jos Buttler,0,3,0,0,0.00,1,56,Jos Buttler,0.0
+KKR Vs Royals,Royals,3,Sanju Samson(c) ,48,29,2,5,165.51,0,56,Sanju Samson ,165.51724137931035
+Mumbai Vs Titans,Mumbai,1,Ishan Kishan ,31,20,4,1,155.00,1,57,Ishan Kishan ,155.0
+Mumbai Vs Titans,Mumbai,2,Rohit Sharma(c),29,18,3,2,161.11,1,57,Rohit Sharma,161.11111111111111
+Mumbai Vs Titans,Mumbai,3,Suryakumar Yadav,103,49,11,6,210.20,0,57,Suryakumar Yadav,210.20408163265304
+Mumbai Vs Titans,Mumbai,4,Nehal Wadhera,15,7,1,1,214.28,1,57,Nehal Wadhera,214.28571428571428
+Mumbai Vs Titans,Mumbai,5,Vishnu Vinod,30,20,2,2,150.00,1,57,Vishnu Vinod,150.0
+Mumbai Vs Titans,Mumbai,6,Tim David,5,3,1,0,166.66,1,57,Tim David,166.66666666666669
+Mumbai Vs Titans,Mumbai,7,Cameron Green,3,3,0,0,100.00,0,57,Cameron Green,100.0
+Mumbai Vs Titans,Titans,1,Wriddhiman Saha ,2,5,0,0,40.00,1,57,Wriddhiman Saha ,40.0
+Mumbai Vs Titans,Titans,2,Shubman Gill,6,9,0,0,66.66,1,57,Shubman Gill,66.66666666666666
+Mumbai Vs Titans,Titans,3,Hardik Pandya(c),4,3,1,0,133.33,1,57,Hardik Pandya,133.33333333333331
+Mumbai Vs Titans,Titans,4,Vijay Shankar,29,14,6,0,207.14,1,57,Vijay Shankar,207.14285714285717
+Mumbai Vs Titans,Titans,5,David Miller,41,26,4,2,157.69,1,57,David Miller,157.69230769230768
+Mumbai Vs Titans,Titans,6,Abhinav Manohar,2,3,0,0,66.66,1,57,Abhinav Manohar,66.66666666666666
+Mumbai Vs Titans,Titans,7,Rahul Tewatia,14,13,1,0,107.69,1,57,Rahul Tewatia,107.6923076923077
+Mumbai Vs Titans,Titans,8,Rashid Khan,79,32,3,10,246.87,0,57,Rashid Khan,246.875
+Mumbai Vs Titans,Titans,9,Noor Ahmad,1,3,0,0,33.33,1,57,Noor Ahmad,33.33333333333333
+Mumbai Vs Titans,Titans,10,Alzarri Joseph,7,12,1,0,58.33,0,57,Alzarri Joseph,58.333333333333336
+Sunrisers Vs Super Giants,Sunrisers,1,Anmolpreet Singh,36,27,7,0,133.33,1,58,Anmolpreet Singh,133.33333333333331
+Sunrisers Vs Super Giants,Sunrisers,2,Abhishek Sharma,7,5,1,0,140.00,1,58,Abhishek Sharma,140.0
+Sunrisers Vs Super Giants,Sunrisers,3,Rahul Tripathi,20,13,4,0,153.84,1,58,Rahul Tripathi,153.84615384615387
+Sunrisers Vs Super Giants,Sunrisers,4,Aiden Markram(c),28,20,2,1,140.00,1,58,Aiden Markram,140.0
+Sunrisers Vs Super Giants,Sunrisers,5,Heinrich Klaasen ,47,29,3,3,162.06,1,58,Heinrich Klaasen ,162.06896551724137
+Sunrisers Vs Super Giants,Sunrisers,6,Glenn Phillips,0,1,0,0,0.00,1,58,Glenn Phillips,0.0
+Sunrisers Vs Super Giants,Sunrisers,7,Abdul Samad,37,25,1,4,148.00,0,58,Abdul Samad,148.0
+Sunrisers Vs Super Giants,Sunrisers,8,Bhuvneshwar Kumar,2,1,0,0,200.00,0,58,Bhuvneshwar Kumar,200.0
+Sunrisers Vs Super Giants,Super Giants,1,Kyle Mayers,2,14,0,0,14.28,1,58,Kyle Mayers,14.285714285714285
+Sunrisers Vs Super Giants,Super Giants,2,Quinton de Kock ,29,19,3,1,152.63,1,58,Quinton de Kock ,152.63157894736844
+Sunrisers Vs Super Giants,Super Giants,3,Prerak Mankad,64,45,7,2,142.22,0,58,Prerak Mankad,142.22222222222223
+Sunrisers Vs Super Giants,Super Giants,4,Marcus Stoinis,40,25,2,3,160.00,1,58,Marcus Stoinis,160.0
+Sunrisers Vs Super Giants,Super Giants,5,Nicholas Pooran,44,13,3,4,338.46,0,58,Nicholas Pooran,338.46153846153845
+Punjab Kings Vs Capitals,Punjab Kings,1,Prabhsimran Singh,103,65,10,6,158.46,1,59,Prabhsimran Singh,158.46153846153845
+Punjab Kings Vs Capitals,Punjab Kings,2,Shikhar Dhawan(c),7,5,0,1,140.00,1,59,Shikhar Dhawan,140.0
+Punjab Kings Vs Capitals,Punjab Kings,3,Liam Livingstone,4,5,1,0,80.00,1,59,Liam Livingstone,80.0
+Punjab Kings Vs Capitals,Punjab Kings,4,Jitesh Sharma ,5,5,1,0,100.00,1,59,Jitesh Sharma ,100.0
+Punjab Kings Vs Capitals,Punjab Kings,5,Sam Curran,20,24,1,0,83.33,1,59,Sam Curran,83.33333333333334
+Punjab Kings Vs Capitals,Punjab Kings,6,Harpreet Brar,2,5,0,0,40.00,1,59,Harpreet Brar,40.0
+Punjab Kings Vs Capitals,Punjab Kings,7,M Shahrukh Khan,2,4,0,0,50.00,1,59,M Shahrukh Khan,50.0
+Punjab Kings Vs Capitals,Punjab Kings,8,Sikandar Raza,11,7,0,1,157.14,0,59,Sikandar Raza,157.14285714285714
+Punjab Kings Vs Capitals,Punjab Kings,9,Rishi Dhawan,0,0,0,0,-,0,59,Rishi Dhawan,0.0
+Punjab Kings Vs Capitals,Capitals,1,David Warner(c),54,27,10,1,200.00,1,59,David Warner,200.0
+Punjab Kings Vs Capitals,Capitals,2,Phil Salt ,21,17,3,0,123.52,1,59,Phil Salt ,123.52941176470588
+Punjab Kings Vs Capitals,Capitals,3,Mitchell Marsh,3,4,0,0,75.00,1,59,Mitchell Marsh,75.0
+Punjab Kings Vs Capitals,Capitals,4,Rilee Rossouw,5,5,1,0,100.00,1,59,Rilee Rossouw,100.0
+Punjab Kings Vs Capitals,Capitals,5,Axar Patel,1,2,0,0,50.00,1,59,Axar Patel,50.0
+Punjab Kings Vs Capitals,Capitals,6,Manish Pandey,0,3,0,0,0.00,1,59,Manish Pandey,0.0
+Punjab Kings Vs Capitals,Capitals,7,Aman Hakim Khan,16,18,1,1,88.88,1,59,Aman Hakim Khan,88.88888888888889
+Punjab Kings Vs Capitals,Capitals,8,Praveen Dubey,16,20,2,0,80.00,1,59,Praveen Dubey,80.0
+Punjab Kings Vs Capitals,Capitals,9,Kuldeep Yadav,10,17,0,0,58.82,0,59,Kuldeep Yadav,58.82352941176471
+Punjab Kings Vs Capitals,Capitals,10,Mukesh Kumar,6,7,0,0,85.71,0,59,Mukesh Kumar,85.71428571428571
+RCB Vs Royals,RCB,1,Virat Kohli,18,19,1,0,94.73,1,60,Virat Kohli,94.73684210526315
+RCB Vs Royals,RCB,2,Faf du Plessis(c),55,44,3,2,125.00,1,60,Faf du Plessis,125.0
+RCB Vs Royals,RCB,3,Glenn Maxwell,54,33,5,3,163.63,1,60,Glenn Maxwell,163.63636363636365
+RCB Vs Royals,RCB,4,Mahipal Lomror,1,2,0,0,50.00,1,60,Mahipal Lomror,50.0
+RCB Vs Royals,RCB,5,Dinesh Karthik ,0,2,0,0,0.00,1,60,Dinesh Karthik ,0.0
+RCB Vs Royals,RCB,6,Michael Bracewell,9,9,0,0,100.00,0,60,Michael Bracewell,100.0
+RCB Vs Royals,RCB,7,Anuj Rawat,29,11,3,2,263.63,0,60,Anuj Rawat,263.6363636363636
+RCB Vs Royals,Royals,1,Yashasvi Jaiswal,0,2,0,0,0.00,1,60,Yashasvi Jaiswal,0.0
+RCB Vs Royals,Royals,2,Jos Buttler,0,2,0,0,0.00,1,60,Jos Buttler,0.0
+RCB Vs Royals,Royals,3,Sanju Samson(c) ,4,5,1,0,80.00,1,60,Sanju Samson ,80.0
+RCB Vs Royals,Royals,4,Joe Root,10,15,1,0,66.66,1,60,Joe Root,66.66666666666666
+RCB Vs Royals,Royals,5,Devdutt Padikkal,4,4,1,0,100.00,1,60,Devdutt Padikkal,100.0
+RCB Vs Royals,Royals,6,Shimron Hetmyer,35,19,1,4,184.21,1,60,Shimron Hetmyer,184.21052631578948
+RCB Vs Royals,Royals,7,Dhruv Jurel,1,7,0,0,14.28,1,60,Dhruv Jurel,14.285714285714285
+RCB Vs Royals,Royals,8,Ravichandran Ashwin,0,0,0,0,-,1,60,Ravichandran Ashwin,0.0
+RCB Vs Royals,Royals,9,Adam Zampa,2,6,0,0,33.33,1,60,Adam Zampa,33.33333333333333
+RCB Vs Royals,Royals,10,Sandeep Sharma,0,1,0,0,0.00,0,60,Sandeep Sharma,0.0
+RCB Vs Royals,Royals,11,KM Asif,0,2,0,0,0.00,1,60,KM Asif,0.0
+Super Kings Vs KKR,Super Kings,1,Ruturaj Gaikwad,17,13,2,0,130.76,1,61,Ruturaj Gaikwad,130.76923076923077
+Super Kings Vs KKR,Super Kings,2,Devon Conway,30,28,3,0,107.14,1,61,Devon Conway,107.14285714285714
+Super Kings Vs KKR,Super Kings,3,Ajinkya Rahane,16,11,1,1,145.45,1,61,Ajinkya Rahane,145.45454545454547
+Super Kings Vs KKR,Super Kings,4,Ambati Rayudu,4,7,0,0,57.14,1,61,Ambati Rayudu,57.14285714285714
+Super Kings Vs KKR,Super Kings,5,Shivam Dube,48,34,1,3,141.17,0,61,Shivam Dube,141.1764705882353
+Super Kings Vs KKR,Super Kings,6,Moeen Ali,1,2,0,0,50.00,1,61,Moeen Ali,50.0
+Super Kings Vs KKR,Super Kings,7,Ravindra Jadeja,20,24,0,1,83.33,1,61,Ravindra Jadeja,83.33333333333334
+Super Kings Vs KKR,Super Kings,8,MS Dhoni(c) ,2,3,0,0,66.66,0,61,MS Dhoni ,66.66666666666666
+Super Kings Vs KKR,KKR,1,Jason Roy,12,15,1,0,80.00,1,61,Jason Roy,80.0
+Super Kings Vs KKR,KKR,2,Rahmanullah Gurbaz ,1,4,0,0,25.00,1,61,Rahmanullah Gurbaz ,25.0
+Super Kings Vs KKR,KKR,3,Venkatesh Iyer,9,4,2,0,225.00,1,61,Venkatesh Iyer,225.0
+Super Kings Vs KKR,KKR,4,Nitish Rana(c),57,44,6,1,129.54,0,61,Nitish Rana,129.54545454545453
+Super Kings Vs KKR,KKR,5,Rinku Singh,54,43,4,3,125.58,1,61,Rinku Singh,125.5813953488372
+Super Kings Vs KKR,KKR,6,Andre Russell,2,2,0,0,100.00,0,61,Andre Russell,100.0
+Titans Vs Sunrisers,Titans,1,Wriddhiman Saha ,0,3,0,0,0.00,1,62,Wriddhiman Saha ,0.0
+Titans Vs Sunrisers,Titans,2,Shubman Gill,101,58,13,1,174.13,1,62,Shubman Gill,174.13793103448276
+Titans Vs Sunrisers,Titans,3,Sai Sudharsan,47,36,6,1,130.55,1,62,Sai Sudharsan,130.55555555555557
+Titans Vs Sunrisers,Titans,4,Hardik Pandya(c),8,6,1,0,133.33,1,62,Hardik Pandya,133.33333333333331
+Titans Vs Sunrisers,Titans,5,David Miller,7,5,1,0,140.00,1,62,David Miller,140.0
+Titans Vs Sunrisers,Titans,6,Rahul Tewatia,3,3,0,0,100.00,1,62,Rahul Tewatia,100.0
+Titans Vs Sunrisers,Titans,7,Dasun Shanaka,9,7,1,0,128.57,0,62,Dasun Shanaka,128.57142857142858
+Titans Vs Sunrisers,Titans,8,Rashid Khan,0,1,0,0,0.00,1,62,Rashid Khan,0.0
+Titans Vs Sunrisers,Titans,9,Noor Ahmad,0,1,0,0,0.00,1,62,Noor Ahmad,0.0
+Titans Vs Sunrisers,Titans,10,Mohammed Shami,0,1,0,0,0.00,1,62,Mohammed Shami,0.0
+Titans Vs Sunrisers,Titans,11,Mohit Sharma,0,1,0,0,0.00,0,62,Mohit Sharma,0.0
+Titans Vs Sunrisers,Sunrisers,1,Anmolpreet Singh,5,4,1,0,125.00,1,62,Anmolpreet Singh,125.0
+Titans Vs Sunrisers,Sunrisers,2,Abhishek Sharma,5,5,1,0,100.00,1,62,Abhishek Sharma,100.0
+Titans Vs Sunrisers,Sunrisers,3,Aiden Markram(c),10,10,1,0,100.00,1,62,Aiden Markram,100.0
+Titans Vs Sunrisers,Sunrisers,4,Rahul Tripathi,1,2,0,0,50.00,1,62,Rahul Tripathi,50.0
+Titans Vs Sunrisers,Sunrisers,5,Heinrich Klaasen ,64,44,4,3,145.45,1,62,Heinrich Klaasen ,145.45454545454547
+Titans Vs Sunrisers,Sunrisers,6,Sanvir Singh,7,6,0,1,116.66,1,62,Sanvir Singh,116.66666666666667
+Titans Vs Sunrisers,Sunrisers,7,Abdul Samad,4,3,1,0,133.33,1,62,Abdul Samad,133.33333333333331
+Titans Vs Sunrisers,Sunrisers,8,Marco Jansen,3,6,0,0,50.00,1,62,Marco Jansen,50.0
+Titans Vs Sunrisers,Sunrisers,9,Bhuvneshwar Kumar,27,26,3,0,103.84,1,62,Bhuvneshwar Kumar,103.84615384615385
+Titans Vs Sunrisers,Sunrisers,10,Mayank Markande,18,9,2,1,200.00,0,62,Mayank Markande,200.0
+Titans Vs Sunrisers,Sunrisers,11,Fazalhaq Farooqi,1,5,0,0,20.00,0,62,Fazalhaq Farooqi,20.0
+Super Giants Vs Mumbai,Super Giants,1,Deepak Hooda,5,7,0,0,71.42,1,63,Deepak Hooda,71.42857142857143
+Super Giants Vs Mumbai,Super Giants,2,Quinton de Kock ,16,15,0,2,106.66,1,63,Quinton de Kock ,106.66666666666667
+Super Giants Vs Mumbai,Super Giants,3,Prerak Mankad,0,1,0,0,0.00,1,63,Prerak Mankad,0.0
+Super Giants Vs Mumbai,Super Giants,4,Krunal Pandya(c),49,42,1,1,116.66,0,63,Krunal Pandya,116.66666666666667
+Super Giants Vs Mumbai,Super Giants,5,Marcus Stoinis,89,47,4,8,189.36,0,63,Marcus Stoinis,189.36170212765958
+Super Giants Vs Mumbai,Super Giants,6,Nicholas Pooran,8,8,1,0,100.00,0,63,Nicholas Pooran,100.0
+Super Giants Vs Mumbai,Mumbai,1,Ishan Kishan ,59,39,8,1,151.28,1,63,Ishan Kishan ,151.28205128205127
+Super Giants Vs Mumbai,Mumbai,2,Rohit Sharma(c),37,25,1,3,148.00,1,63,Rohit Sharma,148.0
+Super Giants Vs Mumbai,Mumbai,3,Suryakumar Yadav,7,9,0,0,77.77,1,63,Suryakumar Yadav,77.77777777777779
+Super Giants Vs Mumbai,Mumbai,4,Nehal Wadhera,16,20,2,0,80.00,1,63,Nehal Wadhera,80.0
+Super Giants Vs Mumbai,Mumbai,5,Tim David,32,19,1,3,168.42,0,63,Tim David,168.42105263157893
+Super Giants Vs Mumbai,Mumbai,6,Vishnu Vinod,2,4,0,0,50.00,1,63,Vishnu Vinod,50.0
+Super Giants Vs Mumbai,Mumbai,7,Cameron Green,4,6,0,0,66.66,0,63,Cameron Green,66.66666666666666
+Capitals Vs Punjab Kings,Capitals,1,David Warner(c),46,31,5,2,148.38,1,64,David Warner,148.38709677419354
+Capitals Vs Punjab Kings,Capitals,2,Prithvi Shaw,54,38,7,1,142.10,1,64,Prithvi Shaw,142.10526315789474
+Capitals Vs Punjab Kings,Capitals,3,Rilee Rossouw,82,37,6,6,221.62,0,64,Rilee Rossouw,221.6216216216216
+Capitals Vs Punjab Kings,Capitals,4,Phil Salt ,26,14,2,2,185.71,0,64,Phil Salt ,185.71428571428572
+Capitals Vs Punjab Kings,Punjab Kings,1,Prabhsimran Singh,22,19,4,0,115.78,1,64,Prabhsimran Singh,115.78947368421053
+Capitals Vs Punjab Kings,Punjab Kings,2,Shikhar Dhawan(c),0,1,0,0,0.00,1,64,Shikhar Dhawan,0.0
+Capitals Vs Punjab Kings,Punjab Kings,3,Atharva Taide,55,42,5,2,130.95,1,64,Atharva Taide,130.95238095238096
+Capitals Vs Punjab Kings,Punjab Kings,4,Liam Livingstone,94,48,5,9,195.83,1,64,Liam Livingstone,195.83333333333331
+Capitals Vs Punjab Kings,Punjab Kings,5,Jitesh Sharma ,0,3,0,0,0.00,1,64,Jitesh Sharma ,0.0
+Capitals Vs Punjab Kings,Punjab Kings,6,M Shahrukh Khan,6,3,0,1,200.00,1,64,M Shahrukh Khan,200.0
+Capitals Vs Punjab Kings,Punjab Kings,7,Sam Curran,11,5,1,1,220.00,1,64,Sam Curran,220.00000000000003
+Capitals Vs Punjab Kings,Punjab Kings,8,Harpreet Brar,0,1,0,0,0.00,1,64,Harpreet Brar,0.0
+Capitals Vs Punjab Kings,Punjab Kings,9,Rahul Chahar,0,0,0,0,-,0,64,Rahul Chahar,0.0
+Sunrisers Vs RCB,Sunrisers,1,Abhishek Sharma,11,14,2,0,78.57,1,65,Abhishek Sharma,78.57142857142857
+Sunrisers Vs RCB,Sunrisers,2,Rahul Tripathi,15,12,2,1,125.00,1,65,Rahul Tripathi,125.0
+Sunrisers Vs RCB,Sunrisers,3,Aiden Markram(c),18,20,0,0,90.00,1,65,Aiden Markram,90.0
+Sunrisers Vs RCB,Sunrisers,4,Heinrich Klaasen ,104,51,8,6,203.92,1,65,Heinrich Klaasen ,203.92156862745097
+Sunrisers Vs RCB,Sunrisers,5,Harry Brook,27,19,2,1,142.10,0,65,Harry Brook,142.10526315789474
+Sunrisers Vs RCB,Sunrisers,6,Glenn Phillips,5,4,1,0,125.00,1,65,Glenn Phillips,125.0
+Sunrisers Vs RCB,RCB,1,Virat Kohli,100,63,12,4,158.73,1,65,Virat Kohli,158.73015873015873
+Sunrisers Vs RCB,RCB,2,Faf du Plessis(c),71,47,7,2,151.06,1,65,Faf du Plessis,151.06382978723406
+Sunrisers Vs RCB,RCB,3,Glenn Maxwell,5,3,1,0,166.66,0,65,Glenn Maxwell,166.66666666666669
+Sunrisers Vs RCB,RCB,4,Michael Bracewell,4,4,0,0,100.00,0,65,Michael Bracewell,100.0
+Punjab Kings Vs Royals,Punjab Kings,1,Prabhsimran Singh,2,2,0,0,100.00,1,66,Prabhsimran Singh,100.0
+Punjab Kings Vs Royals,Punjab Kings,2,Shikhar Dhawan(c),17,12,2,1,141.66,1,66,Shikhar Dhawan,141.66666666666669
+Punjab Kings Vs Royals,Punjab Kings,3,Atharva Taide,19,12,3,1,158.33,1,66,Atharva Taide,158.33333333333331
+Punjab Kings Vs Royals,Punjab Kings,4,Liam Livingstone,9,13,1,0,69.23,1,66,Liam Livingstone,69.23076923076923
+Punjab Kings Vs Royals,Punjab Kings,5,Sam Curran,49,31,4,2,158.06,0,66,Sam Curran,158.06451612903226
+Punjab Kings Vs Royals,Punjab Kings,6,Jitesh Sharma ,44,28,3,3,157.14,1,66,Jitesh Sharma ,157.14285714285714
+Punjab Kings Vs Royals,Punjab Kings,7,M Shahrukh Khan,41,23,4,2,178.26,0,66,M Shahrukh Khan,178.26086956521738
+Punjab Kings Vs Royals,Royals,1,Yashasvi Jaiswal,50,36,8,0,138.88,1,66,Yashasvi Jaiswal,138.88888888888889
+Punjab Kings Vs Royals,Royals,2,Jos Buttler,0,4,0,0,0.00,1,66,Jos Buttler,0.0
+Punjab Kings Vs Royals,Royals,3,Devdutt Padikkal,51,30,5,3,170.00,1,66,Devdutt Padikkal,170.0
+Punjab Kings Vs Royals,Royals,4,Sanju Samson(c) ,2,3,0,0,66.66,1,66,Sanju Samson ,66.66666666666666
+Punjab Kings Vs Royals,Royals,5,Shimron Hetmyer,46,28,4,3,164.28,1,66,Shimron Hetmyer,164.28571428571428
+Punjab Kings Vs Royals,Royals,6,Riyan Parag,20,12,1,2,166.66,1,66,Riyan Parag,166.66666666666669
+Punjab Kings Vs Royals,Royals,7,Dhruv Jurel,10,4,0,1,250.00,0,66,Dhruv Jurel,250.0
+Punjab Kings Vs Royals,Royals,8,Trent Boult,1,2,0,0,50.00,0,66,Trent Boult,50.0
+Super Kings Vs Capitals,Super Kings,1,Ruturaj Gaikwad,79,50,3,7,158.00,1,67,Ruturaj Gaikwad,158.0
+Super Kings Vs Capitals,Super Kings,2,Devon Conway,87,52,11,3,167.30,1,67,Devon Conway,167.30769230769232
+Super Kings Vs Capitals,Super Kings,3,Shivam Dube,22,9,0,3,244.44,1,67,Shivam Dube,244.44444444444446
+Super Kings Vs Capitals,Super Kings,4,MS Dhoni(c) ,5,4,0,0,125.00,0,67,MS Dhoni ,125.0
+Super Kings Vs Capitals,Super Kings,5,Ravindra Jadeja,20,7,3,1,285.71,0,67,Ravindra Jadeja,285.7142857142857
+Super Kings Vs Capitals,Capitals,1,Prithvi Shaw,5,7,1,0,71.42,1,67,Prithvi Shaw,71.42857142857143
+Super Kings Vs Capitals,Capitals,2,David Warner(c),86,58,7,5,148.27,1,67,David Warner,148.27586206896552
+Super Kings Vs Capitals,Capitals,3,Phil Salt ,3,6,0,0,50.00,1,67,Phil Salt ,50.0
+Super Kings Vs Capitals,Capitals,4,Rilee Rossouw,0,1,0,0,0.00,1,67,Rilee Rossouw,0.0
+Super Kings Vs Capitals,Capitals,5,Yash Dhull,13,15,1,0,86.66,1,67,Yash Dhull,86.66666666666667
+Super Kings Vs Capitals,Capitals,6,Axar Patel,15,8,1,1,187.50,1,67,Axar Patel,187.5
+Super Kings Vs Capitals,Capitals,7,Aman Hakim Khan,7,9,1,0,77.77,1,67,Aman Hakim Khan,77.77777777777779
+Super Kings Vs Capitals,Capitals,8,Lalit Yadav,6,12,0,0,50.00,1,67,Lalit Yadav,50.0
+Super Kings Vs Capitals,Capitals,9,Anrich Nortje,0,1,0,0,0.00,0,67,Anrich Nortje,0.0
+Super Kings Vs Capitals,Capitals,10,Kuldeep Yadav,0,1,0,0,0.00,1,67,Kuldeep Yadav,0.0
+Super Kings Vs Capitals,Capitals,11,Chetan Sakariya,0,2,0,0,0.00,0,67,Chetan Sakariya,0.0
+Super Giants Vs KKR,Super Giants,1,Karan Sharma,3,5,0,0,60.00,1,68,Karan Sharma,60.0
+Super Giants Vs KKR,Super Giants,2,Quinton de Kock ,28,27,0,2,103.70,1,68,Quinton de Kock ,103.7037037037037
+Super Giants Vs KKR,Super Giants,3,Prerak Mankad,26,20,5,0,130.00,1,68,Prerak Mankad,130.0
+Super Giants Vs KKR,Super Giants,4,Marcus Stoinis,0,2,0,0,0.00,1,68,Marcus Stoinis,0.0
+Super Giants Vs KKR,Super Giants,5,Krunal Pandya(c),9,8,0,1,112.50,1,68,Krunal Pandya,112.5
+Super Giants Vs KKR,Super Giants,6,Ayush Badoni,25,21,2,1,119.04,1,68,Ayush Badoni,119.04761904761905
+Super Giants Vs KKR,Super Giants,7,Nicholas Pooran,58,30,4,5,193.33,1,68,Nicholas Pooran,193.33333333333334
+Super Giants Vs KKR,Super Giants,8,Krishnappa Gowtham,11,4,1,1,275.00,0,68,Krishnappa Gowtham,275.0
+Super Giants Vs KKR,Super Giants,9,Ravi Bishnoi,2,2,0,0,100.00,1,68,Ravi Bishnoi,100.0
+Super Giants Vs KKR,Super Giants,10,Naveen-ul-Haq,2,3,0,0,66.66,0,68,Naveen-ul-Haq,66.66666666666666
+Super Giants Vs KKR,KKR,1,Jason Roy,45,28,7,1,160.71,1,68,Jason Roy,160.71428571428572
+Super Giants Vs KKR,KKR,2,Venkatesh Iyer,24,15,3,1,160.00,1,68,Venkatesh Iyer,160.0
+Super Giants Vs KKR,KKR,3,Nitish Rana(c),8,10,1,0,80.00,1,68,Nitish Rana,80.0
+Super Giants Vs KKR,KKR,4,Rahmanullah Gurbaz ,10,15,0,0,66.66,1,68,Rahmanullah Gurbaz ,66.66666666666666
+Super Giants Vs KKR,KKR,5,Rinku Singh,67,33,6,4,203.03,0,68,Rinku Singh,203.03030303030303
+Super Giants Vs KKR,KKR,6,Andre Russell,7,9,0,1,77.77,1,68,Andre Russell,77.77777777777779
+Super Giants Vs KKR,KKR,7,Shardul Thakur,3,7,0,0,42.85,1,68,Shardul Thakur,42.857142857142854
+Super Giants Vs KKR,KKR,8,Sunil Narine,1,2,0,0,50.00,1,68,Sunil Narine,50.0
+Super Giants Vs KKR,KKR,9,Vaibhav Arora,1,1,0,0,100.00,0,68,Vaibhav Arora,100.0
+Sunrisers Vs Mumbai,Sunrisers,1,Vivrant Sharma,69,47,9,2,146.80,1,69,Vivrant Sharma,146.80851063829786
+Sunrisers Vs Mumbai,Sunrisers,2,Mayank Agarwal,83,46,8,4,180.43,1,69,Mayank Agarwal,180.43478260869566
+Sunrisers Vs Mumbai,Sunrisers,3,Heinrich Klaasen ,18,13,2,0,138.46,1,69,Heinrich Klaasen ,138.46153846153845
+Sunrisers Vs Mumbai,Sunrisers,4,Glenn Phillips,1,4,0,0,25.00,1,69,Glenn Phillips,25.0
+Sunrisers Vs Mumbai,Sunrisers,5,Aiden Markram(c),13,7,0,1,185.71,0,69,Aiden Markram,185.71428571428572
+Sunrisers Vs Mumbai,Sunrisers,6,Harry Brook,0,1,0,0,0.00,1,69,Harry Brook,0.0
+Sunrisers Vs Mumbai,Sunrisers,7,Sanvir Singh,4,3,1,0,133.33,0,69,Sanvir Singh,133.33333333333331
+Sunrisers Vs Mumbai,Mumbai,1,Ishan Kishan ,14,12,1,1,116.66,1,69,Ishan Kishan ,116.66666666666667
+Sunrisers Vs Mumbai,Mumbai,2,Rohit Sharma(c),56,37,8,1,151.35,1,69,Rohit Sharma,151.35135135135135
+Sunrisers Vs Mumbai,Mumbai,3,Cameron Green,100,47,8,8,212.76,0,69,Cameron Green,212.7659574468085
+Sunrisers Vs Mumbai,Mumbai,4,Suryakumar Yadav,25,16,4,0,156.25,0,69,Suryakumar Yadav,156.25
+RCB Vs Titans,RCB,1,Virat Kohli,101,61,13,1,165.57,0,70,Virat Kohli,165.5737704918033
+RCB Vs Titans,RCB,2,Faf du Plessis(c),28,19,5,0,147.36,1,70,Faf du Plessis,147.36842105263156
+RCB Vs Titans,RCB,3,Glenn Maxwell,11,5,1,1,220.00,1,70,Glenn Maxwell,220.00000000000003
+RCB Vs Titans,RCB,4,Mahipal Lomror,1,3,0,0,33.33,1,70,Mahipal Lomror,33.33333333333333
+RCB Vs Titans,RCB,5,Michael Bracewell,26,16,5,0,162.50,1,70,Michael Bracewell,162.5
+RCB Vs Titans,RCB,6,Dinesh Karthik,0,1,0,0,0.00,1,70,Dinesh Karthik,0.0
+RCB Vs Titans,RCB,7,Anuj Rawat ,23,15,1,1,153.33,0,70,Anuj Rawat ,153.33333333333334
+RCB Vs Titans,Titans,1,Wriddhiman Saha ,12,14,2,0,85.71,1,70,Wriddhiman Saha ,85.71428571428571
+RCB Vs Titans,Titans,2,Shubman Gill,104,52,5,8,200.00,0,70,Shubman Gill,200.0
+RCB Vs Titans,Titans,3,Vijay Shankar,53,35,7,2,151.42,1,70,Vijay Shankar,151.42857142857142
+RCB Vs Titans,Titans,4,Dasun Shanaka,0,3,0,0,0.00,1,70,Dasun Shanaka,0.0
+RCB Vs Titans,Titans,5,David Miller,6,7,1,0,85.71,1,70,David Miller,85.71428571428571
+RCB Vs Titans,Titans,6,Rahul Tewatia,4,5,0,0,80.00,0,70,Rahul Tewatia,80.0
+Super Kings Vs Titans,Super Kings,1,Ruturaj Gaikwad,60,44,7,1,136.36,1,71,Ruturaj Gaikwad,136.36363636363635
+Super Kings Vs Titans,Super Kings,2,Devon Conway,40,34,4,0,117.64,1,71,Devon Conway,117.64705882352942
+Super Kings Vs Titans,Super Kings,3,Shivam Dube,1,3,0,0,33.33,1,71,Shivam Dube,33.33333333333333
+Super Kings Vs Titans,Super Kings,4,Ajinkya Rahane,17,10,0,1,170.00,1,71,Ajinkya Rahane,170.0
+Super Kings Vs Titans,Super Kings,5,Ambati Rayudu,17,9,1,1,188.88,1,71,Ambati Rayudu,188.88888888888889
+Super Kings Vs Titans,Super Kings,6,Ravindra Jadeja,22,16,2,0,137.50,1,71,Ravindra Jadeja,137.5
+Super Kings Vs Titans,Super Kings,7,MS Dhoni(c) ,1,2,0,0,50.00,1,71,MS Dhoni ,50.0
+Super Kings Vs Titans,Super Kings,8,Moeen Ali,9,4,0,1,225.00,0,71,Moeen Ali,225.0
+Super Kings Vs Titans,Titans,1,Wriddhiman Saha ,12,11,2,0,109.09,1,71,Wriddhiman Saha ,109.09090909090908
+Super Kings Vs Titans,Titans,2,Shubman Gill,42,38,4,1,110.52,1,71,Shubman Gill,110.5263157894737
+Super Kings Vs Titans,Titans,3,Hardik Pandya(c),8,7,1,0,114.28,1,71,Hardik Pandya,114.28571428571428
+Super Kings Vs Titans,Titans,4,Dasun Shanaka,17,16,1,1,106.25,1,71,Dasun Shanaka,106.25
+Super Kings Vs Titans,Titans,5,David Miller,4,6,0,0,66.66,1,71,David Miller,66.66666666666666
+Super Kings Vs Titans,Titans,6,Vijay Shankar,14,10,0,1,140.00,1,71,Vijay Shankar,140.0
+Super Kings Vs Titans,Titans,7,Rahul Tewatia,3,5,0,0,60.00,1,71,Rahul Tewatia,60.0
+Super Kings Vs Titans,Titans,8,Rashid Khan,30,16,3,2,187.50,1,71,Rashid Khan,187.5
+Super Kings Vs Titans,Titans,9,Darshan Nalkande,0,1,0,0,0.00,1,71,Darshan Nalkande,0.0
+Super Kings Vs Titans,Titans,10,Noor Ahmad,7,5,1,0,140.00,0,71,Noor Ahmad,140.0
+Super Kings Vs Titans,Titans,11,Mohammed Shami,5,5,1,0,100.00,1,71,Mohammed Shami,100.0
+Mumbai Vs Super Giants,Mumbai,1,Ishan Kishan ,15,12,3,0,125.00,1,72,Ishan Kishan ,125.0
+Mumbai Vs Super Giants,Mumbai,2,Rohit Sharma(c),11,10,1,1,110.00,1,72,Rohit Sharma,110.00000000000001
+Mumbai Vs Super Giants,Mumbai,3,Cameron Green,41,23,6,1,178.26,1,72,Cameron Green,178.26086956521738
+Mumbai Vs Super Giants,Mumbai,4,Suryakumar Yadav,33,20,2,2,165.00,1,72,Suryakumar Yadav,165.0
+Mumbai Vs Super Giants,Mumbai,5,Tilak Varma,26,22,0,2,118.18,1,72,Tilak Varma,118.18181818181819
+Mumbai Vs Super Giants,Mumbai,6,Tim David,13,13,1,0,100.00,1,72,Tim David,100.0
+Mumbai Vs Super Giants,Mumbai,7,Nehal Wadhera,23,12,2,2,191.66,1,72,Nehal Wadhera,191.66666666666669
+Mumbai Vs Super Giants,Mumbai,8,Chris Jordan,4,7,0,0,57.14,1,72,Chris Jordan,57.14285714285714
+Mumbai Vs Super Giants,Mumbai,9,Hrithik Shokeen,0,1,0,0,0.00,0,72,Hrithik Shokeen,0.0
+Mumbai Vs Super Giants,Super Giants,1,Kyle Mayers,18,13,3,0,138.46,1,72,Kyle Mayers,138.46153846153845
+Mumbai Vs Super Giants,Super Giants,2,Prerak Mankad,3,6,0,0,50.00,1,72,Prerak Mankad,50.0
+Mumbai Vs Super Giants,Super Giants,3,Krunal Pandya(c),8,11,1,0,72.72,1,72,Krunal Pandya,72.72727272727273
+Mumbai Vs Super Giants,Super Giants,4,Marcus Stoinis,40,27,5,1,148.14,1,72,Marcus Stoinis,148.14814814814815
+Mumbai Vs Super Giants,Super Giants,5,Ayush Badoni,1,7,0,0,14.28,1,72,Ayush Badoni,14.285714285714285
+Mumbai Vs Super Giants,Super Giants,6,Nicholas Pooran ,0,1,0,0,0.00,1,72,Nicholas Pooran ,0.0
+Mumbai Vs Super Giants,Super Giants,7,Deepak Hooda,15,13,0,1,115.38,1,72,Deepak Hooda,115.38461538461537
+Mumbai Vs Super Giants,Super Giants,8,Krishnappa Gowtham,2,3,0,0,66.66,1,72,Krishnappa Gowtham,66.66666666666666
+Mumbai Vs Super Giants,Super Giants,9,Ravi Bishnoi,3,6,0,0,50.00,1,72,Ravi Bishnoi,50.0
+Mumbai Vs Super Giants,Super Giants,10,Naveen-ul-Haq,1,5,0,0,20.00,0,72,Naveen-ul-Haq,20.0
+Mumbai Vs Super Giants,Super Giants,11,Mohsin Khan,0,7,0,0,0.00,1,72,Mohsin Khan,0.0
+Titans Vs Mumbai,Titans,1,Wriddhiman Saha ,18,16,3,0,112.50,1,73,Wriddhiman Saha ,112.5
+Titans Vs Mumbai,Titans,2,Shubman Gill,129,60,7,10,215.00,1,73,Shubman Gill,215.0
+Titans Vs Mumbai,Titans,3,Sai Sudharsan,43,31,5,1,138.70,1,73,Sai Sudharsan,138.70967741935485
+Titans Vs Mumbai,Titans,4,Hardik Pandya(c),28,13,2,2,215.38,0,73,Hardik Pandya,215.3846153846154
+Titans Vs Mumbai,Titans,5,Rashid Khan,5,2,1,0,250.00,0,73,Rashid Khan,250.0
+Titans Vs Mumbai,Mumbai,1,Rohit Sharma(c),8,7,1,0,114.28,1,73,Rohit Sharma,114.28571428571428
+Titans Vs Mumbai,Mumbai,2,Nehal Wadhera,4,3,1,0,133.33,1,73,Nehal Wadhera,133.33333333333331
+Titans Vs Mumbai,Mumbai,3,Cameron Green,30,20,2,2,150.00,1,73,Cameron Green,150.0
+Titans Vs Mumbai,Mumbai,4,Suryakumar Yadav,61,38,7,2,160.52,1,73,Suryakumar Yadav,160.5263157894737
+Titans Vs Mumbai,Mumbai,5,Tilak Varma,43,14,5,3,307.14,1,73,Tilak Varma,307.14285714285717
+Titans Vs Mumbai,Mumbai,6,Vishnu Vinod ,5,7,0,0,71.42,1,73,Vishnu Vinod ,71.42857142857143
+Titans Vs Mumbai,Mumbai,7,Tim David,2,3,0,0,66.66,1,73,Tim David,66.66666666666666
+Titans Vs Mumbai,Mumbai,8,Chris Jordan,2,5,0,0,40.00,1,73,Chris Jordan,40.0
+Titans Vs Mumbai,Mumbai,9,Piyush Chawla,0,2,0,0,0.00,1,73,Piyush Chawla,0.0
+Titans Vs Mumbai,Mumbai,10,Kumar Kartikeya,6,7,1,0,85.71,1,73,Kumar Kartikeya,85.71428571428571
+Titans Vs Mumbai,Mumbai,11,Jason Behrendorff,3,5,0,0,60.00,0,73,Jason Behrendorff,60.0
+Titans Vs Super Kings,Titans,1,Wriddhiman Saha ,54,39,5,1,138.46,1,74,Wriddhiman Saha ,138.46153846153845
+Titans Vs Super Kings,Titans,2,Shubman Gill,39,20,7,0,195.00,1,74,Shubman Gill,195.0
+Titans Vs Super Kings,Titans,3,Sai Sudharsan,96,47,8,6,204.25,1,74,Sai Sudharsan,204.25531914893617
+Titans Vs Super Kings,Titans,4,Hardik Pandya(c),21,12,0,2,175.00,0,74,Hardik Pandya,175.0
+Titans Vs Super Kings,Titans,5,Rashid Khan,0,2,0,0,0.00,1,74,Rashid Khan,0.0
+Titans Vs Super Kings,Super Kings,1,Ruturaj Gaikwad,26,16,3,1,162.50,1,74,Ruturaj Gaikwad,162.5
+Titans Vs Super Kings,Super Kings,2,Devon Conway,47,25,4,2,188.00,1,74,Devon Conway,188.0
+Titans Vs Super Kings,Super Kings,3,Shivam Dube,32,21,0,2,152.38,0,74,Shivam Dube,152.38095238095238
+Titans Vs Super Kings,Super Kings,4,Ajinkya Rahane,27,13,2,2,207.69,1,74,Ajinkya Rahane,207.6923076923077
+Titans Vs Super Kings,Super Kings,5,Ambati Rayudu,19,8,1,2,237.50,1,74,Ambati Rayudu,237.5
+Titans Vs Super Kings,Super Kings,6,MS Dhoni(c) ,0,1,0,0,0.00,1,74,MS Dhoni ,0.0
+Titans Vs Super Kings,Super Kings,7,Ravindra Jadeja,15,6,1,1,250.00,0,74,Ravindra Jadeja,250.0
